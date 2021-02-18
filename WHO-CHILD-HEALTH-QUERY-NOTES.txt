@@ -1,0 +1,39 @@
+WHS4_100 - Diptheria tetanus toxoid and pertussis (DTP3) among 1-year-olds (%)
+WHS8_110 - Measles-containing-vaccine (MCV1) immunization among 1-year-olds (%)
+WHS4_117 - Hep B (HepB3) immunization among 1-year-olds (%)
+WHS4_129 - Hib (Hib3) immunization among 1-year-olds (%)
+WHS4_543 - BCG immunization among 1-year-olds (%)
+WHS4_544 - Polio (Pol3) immunization among 1-year-olds (%)
+full - Full imunization coverage among 1-year-olds (%)
+measlesv - Measles (MCV) immunization coverage among 1-year-olds (%)
+PCV3 - Pnemococcal conjugate vaccines (PCV3) immunization among 1-year-olds (%)
+ROTAC - Rotavirus vaccines completed dose (RotaC) immunization among 1-year-olds (%)
+bcgv - BCG immunization coverage among one-year-olds (%)
+dtpv - DTP3 immunization coverage among one-year-olds (%)
+poliov - Polio immunization coverage among one-year-olds (%)
+fullv - Full immunization coverage among one-year-olds (%)
+mslv - Measles immunization coverage among one-year-olds (%)
+MCV2 - Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%)
+WHS4_128 - Neonates protected at birth against neonatal tetanus (PAB) (%)
+NUTRITION_564 - Children aged <5 years wasted for age (%)
+stunt - Children aged <5 years stunted (%)
+uweight - Children aged <5 years underweight (%)
+pncall3 - Postnatal care visit within two days of birth (in the three years preceding the survey) (%)
+pncall5 - Postnatal care visit within two days of birth (in the five years preceding the survey) (%)
+cmr - Child mortality rate (probability of dying between age 1 and age 5 per 1000 live births)
+pnmr - Postneonatal mortality rate (probability of dying between age 30 days and 11 months per 1000 live births)
+NUTSTUNTINGPREV - Stunting prevalence
+NUTUNDERWEIGHTPREV - Underweight prevalence
+NUTRITION_WH_2 - Prevalence of wasted children aged <5 years (% weight-for-height <-2 SD)
+NUTRITION_WH2 - Prevalence of overweight children aged <5 years (% weight-for-height >+2 SD)
+NUTRITION_HA_2 - Prevalence of stunted children aged <5 years (% height-for-age <-2 SD)
+NUTRITION_WA_2 - Prevalence of underweight children aged <5 years (% weight-for-age <-2 SD) (%)
+LBW_NUMBER - Low birth weight (in thousands)
+LBW_PREVALENCE - Low birth weight, prevalence (%)
+WHOSIS_000005 - Low-birth-weight newborns (%)
+WHOSIS_000006 - Infants exclusively breastfed for the first six months of life (%)
+
+http://apps.who.int/gho/athena/api/download/WHO_CHILD_HEALTH_1.csv?target=GHO/WHS4_100,WHS8_110,WHS4_117,WHS4_129,WHS4_543,WHS4_544,full,measlesv,PCV3,ROTAC&format=csv&filter=COUNTRY:*
+http://apps.who.int/gho/athena/api/download/WHO_CHILD_HEALTH_2a.csv?target=GHO/bcgv,dptv,poliov,fullv,mslv&format=csv&filter=COUNTRY:* 
+http://apps.who.int/gho/athena/api/download/WHO_CHILD_HEALTH_3.csv?target=GHO/MCV2,WHS4_128,NUTRITION_564,stunt,uweight,pncall3,pncall5,cmr,pnmr,NUTSTUNTINGPREV&format=csv&filter=COUNTRY:*
+http://apps.who.int/gho/athena/api/download/WHO_CHILD_HEALTH_4.csv?target=GHO/NUTUNDERWEIGHTPREV,NUTRITION_WH_2,NUTRITION_WH2,NUTRITION_HA_2,NUTRITION_WA_2,LBW_NUMBER,LBW_PREVALENCE,WHOSIS_000005,WHOSIS_000006&format=csv&filter=COUNTRY:*

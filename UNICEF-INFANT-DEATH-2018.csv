@@ -1,0 +1,694 @@
+DATAFLOW,REF_AREA:Geographic area,INDICATOR:Indicator,SEX:Sex,TIME_PERIOD:Time period,OBS_VALUE:Observation Value,UNIT_MULTIPLIER:Unit multiplier,UNIT_MEASURE:Unit of measure,OBS_STATUS:Observation Status,OBS_CONF:Observation confidentaility,LOWER_BOUND:Lower Bound,UPPER_BOUND:Upper Bound,WGTD_SAMPL_SIZE:Weighted Sample Size,OBS_FOOTNOTE:Observation footnote,SERIES_FOOTNOTE:Series footnote,DATA_SOURCE:Data Source,SOURCE_LINK:Citation of or link to the data source,CUSTODIAN:Custodian,TIME_PERIOD_METHOD:Time period activity related to when the data are collected,REF_PERIOD:Reference Period,COVERAGE_TIME:The period of time for which data are provided,AGE:Current age
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,AFG: Afghanistan,CME_TMY0: Infant deaths,F: Female,2018,25852,,D: Number of deaths,A: Normal value,,21424,30395,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,AFG: Afghanistan,CME_TMY0: Infant deaths,M: Male,2018,31542,,D: Number of deaths,A: Normal value,,26185,37061,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,AFG: Afghanistan,CME_TMY0: Infant deaths,_T: Total,2018,57394,,D: Number of deaths,A: Normal value,,47776,67195,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ALB: Albania,CME_TMY0: Infant deaths,F: Female,2018,124,,D: Number of deaths,A: Normal value,,117,131,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ALB: Albania,CME_TMY0: Infant deaths,M: Male,2018,165,,D: Number of deaths,A: Normal value,,157,176,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ALB: Albania,CME_TMY0: Infant deaths,_T: Total,2018,289,,D: Number of deaths,A: Normal value,,275,304,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,DZA: Algeria,CME_TMY0: Infant deaths,F: Female,2018,9489,,D: Number of deaths,A: Normal value,,9258,9722,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,DZA: Algeria,CME_TMY0: Infant deaths,M: Male,2018,11386,,D: Number of deaths,A: Normal value,,11115,11658,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,DZA: Algeria,CME_TMY0: Infant deaths,_T: Total,2018,20875,,D: Number of deaths,A: Normal value,,20397,21350,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,AND: Andorra,CME_TMY0: Infant deaths,F: Female,2018,1,,D: Number of deaths,A: Normal value,,0,3,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,AND: Andorra,CME_TMY0: Infant deaths,M: Male,2018,1,,D: Number of deaths,A: Normal value,,0,4,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,AND: Andorra,CME_TMY0: Infant deaths,_T: Total,2018,2,,D: Number of deaths,A: Normal value,,1,6,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,AGO: Angola,CME_TMY0: Infant deaths,F: Female,2018,28240,,D: Number of deaths,A: Normal value,,15308,47436,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,AGO: Angola,CME_TMY0: Infant deaths,M: Male,2018,35779,,D: Number of deaths,A: Normal value,,19491,59863,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,AGO: Angola,CME_TMY0: Infant deaths,_T: Total,2018,64019,,D: Number of deaths,A: Normal value,,34947,107229,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ATG: Antigua and Barbuda,CME_TMY0: Infant deaths,F: Female,2018,4,,D: Number of deaths,A: Normal value,,3,6,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ATG: Antigua and Barbuda,CME_TMY0: Infant deaths,M: Male,2018,5,,D: Number of deaths,A: Normal value,,4,7,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ATG: Antigua and Barbuda,CME_TMY0: Infant deaths,_T: Total,2018,9,,D: Number of deaths,A: Normal value,,6,12,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ARG: Argentina,CME_TMY0: Infant deaths,F: Female,2018,2828,,D: Number of deaths,A: Normal value,,2730,2928,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ARG: Argentina,CME_TMY0: Infant deaths,M: Male,2018,3732,,D: Number of deaths,A: Normal value,,3603,3857,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ARG: Argentina,CME_TMY0: Infant deaths,_T: Total,2018,6560,,D: Number of deaths,A: Normal value,,6350,6775,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ARM: Armenia,CME_TMY0: Infant deaths,F: Female,2018,193,,D: Number of deaths,A: Normal value,,145,247,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ARM: Armenia,CME_TMY0: Infant deaths,M: Male,2018,265,,D: Number of deaths,A: Normal value,,201,339,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ARM: Armenia,CME_TMY0: Infant deaths,_T: Total,2018,458,,D: Number of deaths,A: Normal value,,346,581,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,AUS: Australia,CME_TMY0: Infant deaths,F: Female,2018,435,,D: Number of deaths,A: Normal value,,417,454,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,AUS: Australia,CME_TMY0: Infant deaths,M: Male,2018,549,,D: Number of deaths,A: Normal value,,527,572,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,AUS: Australia,CME_TMY0: Infant deaths,_T: Total,2018,984,,D: Number of deaths,A: Normal value,,949,1020,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_AUSTRALIANEWZEALAND: Australia and New Zealand,CME_TMY0: Infant deaths,F: Female,2018,542,,D: Number of deaths,A: Normal value,,521,566,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_AUSTRALIANEWZEALAND: Australia and New Zealand,CME_TMY0: Infant deaths,M: Male,2018,686,,D: Number of deaths,A: Normal value,,658,713,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_AUSTRALIANEWZEALAND: Australia and New Zealand,CME_TMY0: Infant deaths,_T: Total,2018,1228,,D: Number of deaths,A: Normal value,,1183,1274,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,AUT: Austria,CME_TMY0: Infant deaths,F: Female,2018,112,,D: Number of deaths,A: Normal value,,100,125,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,AUT: Austria,CME_TMY0: Infant deaths,M: Male,2018,142,,D: Number of deaths,A: Normal value,,128,159,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,AUT: Austria,CME_TMY0: Infant deaths,_T: Total,2018,254,,D: Number of deaths,A: Normal value,,229,282,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,AZE: Azerbaijan,CME_TMY0: Infant deaths,F: Female,2018,1362,,D: Number of deaths,A: Normal value,,915,2018,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,AZE: Azerbaijan,CME_TMY0: Infant deaths,M: Male,2018,1885,,D: Number of deaths,A: Normal value,,1266,2778,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,AZE: Azerbaijan,CME_TMY0: Infant deaths,_T: Total,2018,3247,,D: Number of deaths,A: Normal value,,2180,4778,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BHS: Bahamas,CME_TMY0: Infant deaths,F: Female,2018,27,,D: Number of deaths,A: Normal value,,22,33,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BHS: Bahamas,CME_TMY0: Infant deaths,M: Male,2018,33,,D: Number of deaths,A: Normal value,,26,41,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BHS: Bahamas,CME_TMY0: Infant deaths,_T: Total,2018,60,,D: Number of deaths,A: Normal value,,48,74,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BHR: Bahrain,CME_TMY0: Infant deaths,F: Female,2018,63,,D: Number of deaths,A: Normal value,,51,78,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BHR: Bahrain,CME_TMY0: Infant deaths,M: Male,2018,69,,D: Number of deaths,A: Normal value,,57,85,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BHR: Bahrain,CME_TMY0: Infant deaths,_T: Total,2018,132,,D: Number of deaths,A: Normal value,,108,162,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BGD: Bangladesh,CME_TMY0: Infant deaths,F: Female,2018,35603,,D: Number of deaths,A: Normal value,,32903,38450,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BGD: Bangladesh,CME_TMY0: Infant deaths,M: Male,2018,42759,,D: Number of deaths,A: Normal value,,39604,46169,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BGD: Bangladesh,CME_TMY0: Infant deaths,_T: Total,2018,78362,,D: Number of deaths,A: Normal value,,72829,84361,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BRB: Barbados,CME_TMY0: Infant deaths,F: Female,2018,16,,D: Number of deaths,A: Normal value,,12,22,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BRB: Barbados,CME_TMY0: Infant deaths,M: Male,2018,21,,D: Number of deaths,A: Normal value,,15,27,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BRB: Barbados,CME_TMY0: Infant deaths,_T: Total,2018,37,,D: Number of deaths,A: Normal value,,27,50,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BLR: Belarus,CME_TMY0: Infant deaths,F: Female,2018,123,,D: Number of deaths,A: Normal value,,114,132,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BLR: Belarus,CME_TMY0: Infant deaths,M: Male,2018,165,,D: Number of deaths,A: Normal value,,154,177,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BLR: Belarus,CME_TMY0: Infant deaths,_T: Total,2018,288,,D: Number of deaths,A: Normal value,,269,308,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BEL: Belgium,CME_TMY0: Infant deaths,F: Female,2018,151,,D: Number of deaths,A: Normal value,,133,169,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BEL: Belgium,CME_TMY0: Infant deaths,M: Male,2018,203,,D: Number of deaths,A: Normal value,,180,227,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BEL: Belgium,CME_TMY0: Infant deaths,_T: Total,2018,354,,D: Number of deaths,A: Normal value,,315,396,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BLZ: Belize,CME_TMY0: Infant deaths,F: Female,2018,39,,D: Number of deaths,A: Normal value,,35,44,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BLZ: Belize,CME_TMY0: Infant deaths,M: Male,2018,50,,D: Number of deaths,A: Normal value,,44,56,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BLZ: Belize,CME_TMY0: Infant deaths,_T: Total,2018,89,,D: Number of deaths,A: Normal value,,79,100,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BEN: Benin,CME_TMY0: Infant deaths,F: Female,2018,10952,,D: Number of deaths,A: Normal value,,9724,12292,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BEN: Benin,CME_TMY0: Infant deaths,M: Male,2018,13766,,D: Number of deaths,A: Normal value,,12266,15402,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BEN: Benin,CME_TMY0: Infant deaths,_T: Total,2018,24718,,D: Number of deaths,A: Normal value,,22067,27637,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BTN: Bhutan,CME_TMY0: Infant deaths,F: Female,2018,142,,D: Number of deaths,A: Normal value,,95,201,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BTN: Bhutan,CME_TMY0: Infant deaths,M: Male,2018,178,,D: Number of deaths,A: Normal value,,120,252,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BTN: Bhutan,CME_TMY0: Infant deaths,_T: Total,2018,320,,D: Number of deaths,A: Normal value,,216,452,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BOL: Bolivia (Plurinational State of),CME_TMY0: Infant deaths,F: Female,2018,2355,,D: Number of deaths,A: Normal value,,1839,2979,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BOL: Bolivia (Plurinational State of),CME_TMY0: Infant deaths,M: Male,2018,3059,,D: Number of deaths,A: Normal value,,2388,3868,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BOL: Bolivia (Plurinational State of),CME_TMY0: Infant deaths,_T: Total,2018,5414,,D: Number of deaths,A: Normal value,,4234,6837,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BIH: Bosnia and Herzegovina,CME_TMY0: Infant deaths,F: Female,2018,62,,D: Number of deaths,A: Normal value,,54,71,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BIH: Bosnia and Herzegovina,CME_TMY0: Infant deaths,M: Male,2018,80,,D: Number of deaths,A: Normal value,,70,91,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BIH: Bosnia and Herzegovina,CME_TMY0: Infant deaths,_T: Total,2018,142,,D: Number of deaths,A: Normal value,,125,163,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BWA: Botswana,CME_TMY0: Infant deaths,F: Female,2018,803,,D: Number of deaths,A: Normal value,,326,1466,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BWA: Botswana,CME_TMY0: Infant deaths,M: Male,2018,1002,,D: Number of deaths,A: Normal value,,408,1835,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BWA: Botswana,CME_TMY0: Infant deaths,_T: Total,2018,1805,,D: Number of deaths,A: Normal value,,732,3295,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BRA: Brazil,CME_TMY0: Infant deaths,F: Female,2018,16025,,D: Number of deaths,A: Normal value,,13794,18523,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BRA: Brazil,CME_TMY0: Infant deaths,M: Male,2018,21413,,D: Number of deaths,A: Normal value,,18544,24637,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BRA: Brazil,CME_TMY0: Infant deaths,_T: Total,2018,37438,,D: Number of deaths,A: Normal value,,32593,42871,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BRN: Brunei Darussalam,CME_TMY0: Infant deaths,F: Female,2018,26,,D: Number of deaths,A: Normal value,,24,29,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BRN: Brunei Darussalam,CME_TMY0: Infant deaths,M: Male,2018,34,,D: Number of deaths,A: Normal value,,31,38,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BRN: Brunei Darussalam,CME_TMY0: Infant deaths,_T: Total,2018,60,,D: Number of deaths,A: Normal value,,55,67,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BGR: Bulgaria,CME_TMY0: Infant deaths,F: Female,2018,162,,D: Number of deaths,A: Normal value,,154,170,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BGR: Bulgaria,CME_TMY0: Infant deaths,M: Male,2018,210,,D: Number of deaths,A: Normal value,,201,221,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BGR: Bulgaria,CME_TMY0: Infant deaths,_T: Total,2018,372,,D: Number of deaths,A: Normal value,,356,389,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BFA: Burkina Faso,CME_TMY0: Infant deaths,F: Female,2018,18136,,D: Number of deaths,A: Normal value,,14806,22290,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BFA: Burkina Faso,CME_TMY0: Infant deaths,M: Male,2018,22662,,D: Number of deaths,A: Normal value,,18533,27828,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BFA: Burkina Faso,CME_TMY0: Infant deaths,_T: Total,2018,40798,,D: Number of deaths,A: Normal value,,33409,50049,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BDI: Burundi,CME_TMY0: Infant deaths,F: Female,2018,7780,,D: Number of deaths,A: Normal value,,5718,10586,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BDI: Burundi,CME_TMY0: Infant deaths,M: Male,2018,9939,,D: Number of deaths,A: Normal value,,7293,13484,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,BDI: Burundi,CME_TMY0: Infant deaths,_T: Total,2018,17719,,D: Number of deaths,A: Normal value,,13012,24079,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CPV: Cabo Verde,CME_TMY0: Infant deaths,F: Female,2018,64,,D: Number of deaths,A: Normal value,,55,75,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CPV: Cabo Verde,CME_TMY0: Infant deaths,M: Male,2018,80,,D: Number of deaths,A: Normal value,,68,93,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CPV: Cabo Verde,CME_TMY0: Infant deaths,_T: Total,2018,144,,D: Number of deaths,A: Normal value,,124,168,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,KHM: Cambodia,CME_TMY0: Infant deaths,F: Female,2018,3702,,D: Number of deaths,A: Normal value,,2038,6536,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,KHM: Cambodia,CME_TMY0: Infant deaths,M: Male,2018,4940,,D: Number of deaths,A: Normal value,,2723,8779,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,KHM: Cambodia,CME_TMY0: Infant deaths,_T: Total,2018,8642,,D: Number of deaths,A: Normal value,,4764,15294,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CMR: Cameroon,CME_TMY0: Infant deaths,F: Female,2018,20052,,D: Number of deaths,A: Normal value,,17416,23147,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CMR: Cameroon,CME_TMY0: Infant deaths,M: Male,2018,25364,,D: Number of deaths,A: Normal value,,21987,29128,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CMR: Cameroon,CME_TMY0: Infant deaths,_T: Total,2018,45416,,D: Number of deaths,A: Normal value,,39629,52095,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CAN: Canada,CME_TMY0: Infant deaths,F: Female,2018,760,,D: Number of deaths,A: Normal value,,723,797,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CAN: Canada,CME_TMY0: Infant deaths,M: Male,2018,917,,D: Number of deaths,A: Normal value,,875,962,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CAN: Canada,CME_TMY0: Infant deaths,_T: Total,2018,1677,,D: Number of deaths,A: Normal value,,1603,1752,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CAF: Central African Republic,CME_TMY0: Infant deaths,F: Female,2018,6169,,D: Number of deaths,A: Normal value,,4097,8891,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CAF: Central African Republic,CME_TMY0: Infant deaths,M: Male,2018,7466,,D: Number of deaths,A: Normal value,,4944,10763,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CAF: Central African Republic,CME_TMY0: Infant deaths,_T: Total,2018,13635,,D: Number of deaths,A: Normal value,,9079,19635,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_CENTRALASIA: Central Asia,CME_TMY0: Infant deaths,F: Female,2018,13099,,D: Number of deaths,A: Normal value,,11635,15084,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_CENTRALASIA: Central Asia,CME_TMY0: Infant deaths,M: Male,2018,18158,,D: Number of deaths,A: Normal value,,16179,20921,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_CENTRALASIA: Central Asia,CME_TMY0: Infant deaths,_T: Total,2018,31257,,D: Number of deaths,A: Normal value,,27856,35926,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_CENTRALASIASOUTHERNASIA: Central and Southern Asia,CME_TMY0: Infant deaths,F: Female,2018,579165,,D: Number of deaths,A: Normal value,,545247,614939,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_CENTRALASIASOUTHERNASIA: Central and Southern Asia,CME_TMY0: Infant deaths,M: Male,2018,678572,,D: Number of deaths,A: Normal value,,640396,720281,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_CENTRALASIASOUTHERNASIA: Central and Southern Asia,CME_TMY0: Infant deaths,_T: Total,2018,1257737,,D: Number of deaths,A: Normal value,,1188307,1331799,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TCD: Chad,CME_TMY0: Infant deaths,F: Female,2018,20291,,D: Number of deaths,A: Normal value,,16916,24385,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TCD: Chad,CME_TMY0: Infant deaths,M: Male,2018,25059,,D: Number of deaths,A: Normal value,,20867,30130,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TCD: Chad,CME_TMY0: Infant deaths,_T: Total,2018,45350,,D: Number of deaths,A: Normal value,,37991,54357,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CHL: Chile,CME_TMY0: Infant deaths,F: Female,2018,643,,D: Number of deaths,A: Normal value,,530,782,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CHL: Chile,CME_TMY0: Infant deaths,M: Male,2018,790,,D: Number of deaths,A: Normal value,,649,958,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CHL: Chile,CME_TMY0: Infant deaths,_T: Total,2018,1433,,D: Number of deaths,A: Normal value,,1179,1738,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CHN: China,CME_TMY0: Infant deaths,F: Female,2018,54042,,D: Number of deaths,A: Normal value,,48302,60739,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CHN: China,CME_TMY0: Infant deaths,M: Male,2018,69038,,D: Number of deaths,A: Normal value,,62003,77542,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CHN: China,CME_TMY0: Infant deaths,_T: Total,2018,123080,,D: Number of deaths,A: Normal value,,110881,136851,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,COL: Colombia,CME_TMY0: Infant deaths,F: Female,2018,3872,,D: Number of deaths,A: Normal value,,2799,5286,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,COL: Colombia,CME_TMY0: Infant deaths,M: Male,2018,5112,,D: Number of deaths,A: Normal value,,3689,6969,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,COL: Colombia,CME_TMY0: Infant deaths,_T: Total,2018,8984,,D: Number of deaths,A: Normal value,,6507,12248,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,COM: Comoros,CME_TMY0: Infant deaths,F: Female,2018,576,,D: Number of deaths,A: Normal value,,311,1093,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,COM: Comoros,CME_TMY0: Infant deaths,M: Male,2018,727,,D: Number of deaths,A: Normal value,,394,1376,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,COM: Comoros,CME_TMY0: Infant deaths,_T: Total,2018,1303,,D: Number of deaths,A: Normal value,,706,2467,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,COG: Congo,CME_TMY0: Infant deaths,F: Female,2018,2696,,D: Number of deaths,A: Normal value,,1806,4103,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,COG: Congo,CME_TMY0: Infant deaths,M: Male,2018,3406,,D: Number of deaths,A: Normal value,,2277,5134,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,COG: Congo,CME_TMY0: Infant deaths,_T: Total,2018,6102,,D: Number of deaths,A: Normal value,,4099,9237,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,COK: Cook Islands,CME_TMY0: Infant deaths,F: Female,2018,1,,D: Number of deaths,A: Normal value,,0,1,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,COK: Cook Islands,CME_TMY0: Infant deaths,M: Male,2018,1,,D: Number of deaths,A: Normal value,,1,2,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,COK: Cook Islands,CME_TMY0: Infant deaths,_T: Total,2018,2,,D: Number of deaths,A: Normal value,,1,3,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CRI: Costa Rica,CME_TMY0: Infant deaths,F: Female,2018,240,,D: Number of deaths,A: Normal value,,230,250,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CRI: Costa Rica,CME_TMY0: Infant deaths,M: Male,2018,288,,D: Number of deaths,A: Normal value,,277,300,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CRI: Costa Rica,CME_TMY0: Infant deaths,_T: Total,2018,528,,D: Number of deaths,A: Normal value,,509,547,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,HRV: Croatia,CME_TMY0: Infant deaths,F: Female,2018,67,,D: Number of deaths,A: Normal value,,62,74,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,HRV: Croatia,CME_TMY0: Infant deaths,M: Male,2018,85,,D: Number of deaths,A: Normal value,,78,93,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,HRV: Croatia,CME_TMY0: Infant deaths,_T: Total,2018,152,,D: Number of deaths,A: Normal value,,141,166,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CUB: Cuba,CME_TMY0: Infant deaths,F: Female,2018,196,,D: Number of deaths,A: Normal value,,170,228,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CUB: Cuba,CME_TMY0: Infant deaths,M: Male,2018,258,,D: Number of deaths,A: Normal value,,224,301,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CUB: Cuba,CME_TMY0: Infant deaths,_T: Total,2018,454,,D: Number of deaths,A: Normal value,,394,528,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CYP: Cyprus,CME_TMY0: Infant deaths,F: Female,2018,11,,D: Number of deaths,A: Normal value,,8,14,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CYP: Cyprus,CME_TMY0: Infant deaths,M: Male,2018,13,,D: Number of deaths,A: Normal value,,10,18,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CYP: Cyprus,CME_TMY0: Infant deaths,_T: Total,2018,24,,D: Number of deaths,A: Normal value,,18,32,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CZE: Czechia,CME_TMY0: Infant deaths,F: Female,2018,120,,D: Number of deaths,A: Normal value,,114,127,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CZE: Czechia,CME_TMY0: Infant deaths,M: Male,2018,162,,D: Number of deaths,A: Normal value,,153,170,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CZE: Czechia,CME_TMY0: Infant deaths,_T: Total,2018,282,,D: Number of deaths,A: Normal value,,269,295,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CIV: Côte d'Ivoire,CME_TMY0: Infant deaths,F: Female,2018,23202,,D: Number of deaths,A: Normal value,,19409,27577,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CIV: Côte d'Ivoire,CME_TMY0: Infant deaths,M: Male,2018,30143,,D: Number of deaths,A: Normal value,,25293,35855,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CIV: Côte d'Ivoire,CME_TMY0: Infant deaths,_T: Total,2018,53345,,D: Number of deaths,A: Normal value,,44906,63402,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,PRK: Democratic People's Republic of Korea,CME_TMY0: Infant deaths,F: Female,2018,2095,,D: Number of deaths,A: Normal value,,1632,2698,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,PRK: Democratic People's Republic of Korea,CME_TMY0: Infant deaths,M: Male,2018,2747,,D: Number of deaths,A: Normal value,,2135,3515,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,PRK: Democratic People's Republic of Korea,CME_TMY0: Infant deaths,_T: Total,2018,4842,,D: Number of deaths,A: Normal value,,3792,6192,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,COD: Democratic Republic of the Congo,CME_TMY0: Infant deaths,F: Female,2018,103365,,D: Number of deaths,A: Normal value,,73057,138969,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,COD: Democratic Republic of the Congo,CME_TMY0: Infant deaths,M: Male,2018,127215,,D: Number of deaths,A: Normal value,,90600,170796,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,COD: Democratic Republic of the Congo,CME_TMY0: Infant deaths,_T: Total,2018,230580,,D: Number of deaths,A: Normal value,,164389,309235,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,DNK: Denmark,CME_TMY0: Infant deaths,F: Female,2018,86,,D: Number of deaths,A: Normal value,,81,91,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,DNK: Denmark,CME_TMY0: Infant deaths,M: Male,2018,118,,D: Number of deaths,A: Normal value,,111,125,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,DNK: Denmark,CME_TMY0: Infant deaths,_T: Total,2018,204,,D: Number of deaths,A: Normal value,,192,215,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,DJI: Djibouti,CME_TMY0: Infant deaths,F: Female,2018,456,,D: Number of deaths,A: Normal value,,290,681,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,DJI: Djibouti,CME_TMY0: Infant deaths,M: Male,2018,563,,D: Number of deaths,A: Normal value,,359,849,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,DJI: Djibouti,CME_TMY0: Infant deaths,_T: Total,2018,1019,,D: Number of deaths,A: Normal value,,648,1531,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,DMA: Dominica,CME_TMY0: Infant deaths,F: Female,2018,13,,D: Number of deaths,A: Normal value,,11,15,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,DMA: Dominica,CME_TMY0: Infant deaths,M: Male,2018,16,,D: Number of deaths,A: Normal value,,14,18,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,DMA: Dominica,CME_TMY0: Infant deaths,_T: Total,2018,29,,D: Number of deaths,A: Normal value,,25,33,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,DOM: Dominican Republic,CME_TMY0: Infant deaths,F: Female,2018,2195,,D: Number of deaths,A: Normal value,,1596,2995,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,DOM: Dominican Republic,CME_TMY0: Infant deaths,M: Male,2018,2793,,D: Number of deaths,A: Normal value,,2040,3792,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,DOM: Dominican Republic,CME_TMY0: Infant deaths,_T: Total,2018,4988,,D: Number of deaths,A: Normal value,,3645,6782,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_EAP: East Asia and Pacific,CME_TMY0: Infant deaths,F: Female,2018,164360,,D: Number of deaths,A: Normal value,,154187,177740,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_EAP: East Asia and Pacific,CME_TMY0: Infant deaths,M: Male,2018,215179,,D: Number of deaths,A: Normal value,,201984,232860,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_EAP: East Asia and Pacific,CME_TMY0: Infant deaths,_T: Total,2018,379539,,D: Number of deaths,A: Normal value,,356362,409366,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_EASTERNASIA: Eastern Asia,CME_TMY0: Infant deaths,F: Female,2018,57893,,D: Number of deaths,A: Normal value,,52115,64658,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_EASTERNASIA: Eastern Asia,CME_TMY0: Infant deaths,M: Male,2018,73950,,D: Number of deaths,A: Normal value,,66958,82503,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_EASTERNASIA: Eastern Asia,CME_TMY0: Infant deaths,_T: Total,2018,131843,,D: Number of deaths,A: Normal value,,119632,145782,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_EECA: Eastern Europe and Central Asia,CME_TMY0: Infant deaths,F: Female,2018,27597,,D: Number of deaths,A: Normal value,,26031,29841,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_EECA: Eastern Europe and Central Asia,CME_TMY0: Infant deaths,M: Male,2018,36525,,D: Number of deaths,A: Normal value,,34354,39617,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_EECA: Eastern Europe and Central Asia,CME_TMY0: Infant deaths,_T: Total,2018,64122,,D: Number of deaths,A: Normal value,,60413,69406,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_EASTERNASIASOUTHEASTERNASIA: Eastern and South-Eastern Asia,CME_TMY0: Infant deaths,F: Female,2018,159510,,D: Number of deaths,A: Normal value,,149328,172810,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_EASTERNASIASOUTHEASTERNASIA: Eastern and South-Eastern Asia,CME_TMY0: Infant deaths,M: Male,2018,208965,,D: Number of deaths,A: Normal value,,195826,226512,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_EASTERNASIASOUTHEASTERNASIA: Eastern and South-Eastern Asia,CME_TMY0: Infant deaths,_T: Total,2018,368475,,D: Number of deaths,A: Normal value,,345377,398098,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_ESA: Eastern and Southern Africa,CME_TMY0: Infant deaths,F: Female,2018,324432,,D: Number of deaths,A: Normal value,,303070,360603,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_ESA: Eastern and Southern Africa,CME_TMY0: Infant deaths,M: Male,2018,410528,,D: Number of deaths,A: Normal value,,384283,454943,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_ESA: Eastern and Southern Africa,CME_TMY0: Infant deaths,_T: Total,2018,734960,,D: Number of deaths,A: Normal value,,688423,816067,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ECU: Ecuador,CME_TMY0: Infant deaths,F: Female,2018,1759,,D: Number of deaths,A: Normal value,,1634,1886,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ECU: Ecuador,CME_TMY0: Infant deaths,M: Male,2018,2356,,D: Number of deaths,A: Normal value,,2205,2515,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ECU: Ecuador,CME_TMY0: Infant deaths,_T: Total,2018,4115,,D: Number of deaths,A: Normal value,,3878,4358,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,EGY: Egypt,CME_TMY0: Infant deaths,F: Female,2018,20954,,D: Number of deaths,A: Normal value,,15350,28502,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,EGY: Egypt,CME_TMY0: Infant deaths,M: Male,2018,25472,,D: Number of deaths,A: Normal value,,18680,34644,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,EGY: Egypt,CME_TMY0: Infant deaths,_T: Total,2018,46426,,D: Number of deaths,A: Normal value,,34135,62961,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SLV: El Salvador,CME_TMY0: Infant deaths,F: Female,2018,604,,D: Number of deaths,A: Normal value,,396,916,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SLV: El Salvador,CME_TMY0: Infant deaths,M: Male,2018,781,,D: Number of deaths,A: Normal value,,515,1177,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SLV: El Salvador,CME_TMY0: Infant deaths,_T: Total,2018,1385,,D: Number of deaths,A: Normal value,,913,2087,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GNQ: Equatorial Guinea,CME_TMY0: Infant deaths,F: Female,2018,1184,,D: Number of deaths,A: Normal value,,782,1783,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GNQ: Equatorial Guinea,CME_TMY0: Infant deaths,M: Male,2018,1467,,D: Number of deaths,A: Normal value,,972,2213,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GNQ: Equatorial Guinea,CME_TMY0: Infant deaths,_T: Total,2018,2651,,D: Number of deaths,A: Normal value,,1758,3990,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ERI: Eritrea,CME_TMY0: Infant deaths,F: Female,2018,1367,,D: Number of deaths,A: Normal value,,908,2000,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ERI: Eritrea,CME_TMY0: Infant deaths,M: Male,2018,1921,,D: Number of deaths,A: Normal value,,1278,2804,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ERI: Eritrea,CME_TMY0: Infant deaths,_T: Total,2018,3288,,D: Number of deaths,A: Normal value,,2188,4801,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,EST: Estonia,CME_TMY0: Infant deaths,F: Female,2018,12,,D: Number of deaths,A: Normal value,,10,14,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,EST: Estonia,CME_TMY0: Infant deaths,M: Male,2018,15,,D: Number of deaths,A: Normal value,,13,18,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,EST: Estonia,CME_TMY0: Infant deaths,_T: Total,2018,27,,D: Number of deaths,A: Normal value,,24,31,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SWZ: Eswatini,CME_TMY0: Infant deaths,F: Female,2018,536,,D: Number of deaths,A: Normal value,,382,740,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SWZ: Eswatini,CME_TMY0: Infant deaths,M: Male,2018,679,,D: Number of deaths,A: Normal value,,484,936,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SWZ: Eswatini,CME_TMY0: Infant deaths,_T: Total,2018,1215,,D: Number of deaths,A: Normal value,,869,1674,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ETH: Ethiopia,CME_TMY0: Infant deaths,F: Female,2018,55870,,D: Number of deaths,A: Normal value,,48217,64420,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ETH: Ethiopia,CME_TMY0: Infant deaths,M: Male,2018,76557,,D: Number of deaths,A: Normal value,,66313,87918,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ETH: Ethiopia,CME_TMY0: Infant deaths,_T: Total,2018,132427,,D: Number of deaths,A: Normal value,,115000,152054,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_EUROPE: Europe,CME_TMY0: Infant deaths,F: Female,2018,14263,,D: Number of deaths,A: Normal value,,14099,14461,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_EUROPE: Europe,CME_TMY0: Infant deaths,M: Male,2018,18282,,D: Number of deaths,A: Normal value,,18077,18529,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_EUROPE: Europe,CME_TMY0: Infant deaths,_T: Total,2018,32545,,D: Number of deaths,A: Normal value,,32214,32928,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_ECA: Europe and Central Asia,CME_TMY0: Infant deaths,F: Female,2018,34627,,D: Number of deaths,A: Normal value,,33068,36879,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_ECA: Europe and Central Asia,CME_TMY0: Infant deaths,M: Male,2018,45426,,D: Number of deaths,A: Normal value,,43260,48541,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_ECA: Europe and Central Asia,CME_TMY0: Infant deaths,_T: Total,2018,80053,,D: Number of deaths,A: Normal value,,76341,85324,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_EUROPENORTHERNAMR: Europe and Northern America,CME_TMY0: Infant deaths,F: Female,2018,24810,,D: Number of deaths,A: Normal value,,24364,25306,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_EUROPENORTHERNAMR: Europe and Northern America,CME_TMY0: Infant deaths,M: Male,2018,31435,,D: Number of deaths,A: Normal value,,30876,32051,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_EUROPENORTHERNAMR: Europe and Northern America,CME_TMY0: Infant deaths,_T: Total,2018,56245,,D: Number of deaths,A: Normal value,,55310,57270,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,FJI: Fiji,CME_TMY0: Infant deaths,F: Female,2018,179,,D: Number of deaths,A: Normal value,,164,195,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,FJI: Fiji,CME_TMY0: Infant deaths,M: Male,2018,228,,D: Number of deaths,A: Normal value,,209,247,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,FJI: Fiji,CME_TMY0: Infant deaths,_T: Total,2018,407,,D: Number of deaths,A: Normal value,,375,440,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,FIN: Finland,CME_TMY0: Infant deaths,F: Female,2018,45,,D: Number of deaths,A: Normal value,,42,49,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,FIN: Finland,CME_TMY0: Infant deaths,M: Male,2018,56,,D: Number of deaths,A: Normal value,,52,61,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,FIN: Finland,CME_TMY0: Infant deaths,_T: Total,2018,101,,D: Number of deaths,A: Normal value,,94,109,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,FRA: France,CME_TMY0: Infant deaths,F: Female,2018,1189,,D: Number of deaths,A: Normal value,,1144,1237,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,FRA: France,CME_TMY0: Infant deaths,M: Male,2018,1512,,D: Number of deaths,A: Normal value,,1456,1569,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,FRA: France,CME_TMY0: Infant deaths,_T: Total,2018,2701,,D: Number of deaths,A: Normal value,,2612,2794,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GAB: Gabon,CME_TMY0: Infant deaths,F: Female,2018,925,,D: Number of deaths,A: Normal value,,628,1311,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GAB: Gabon,CME_TMY0: Infant deaths,M: Male,2018,1204,,D: Number of deaths,A: Normal value,,821,1708,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GAB: Gabon,CME_TMY0: Infant deaths,_T: Total,2018,2129,,D: Number of deaths,A: Normal value,,1457,3013,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GMB: Gambia,CME_TMY0: Infant deaths,F: Female,2018,1391,,D: Number of deaths,A: Normal value,,1224,1564,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GMB: Gambia,CME_TMY0: Infant deaths,M: Male,2018,1801,,D: Number of deaths,A: Normal value,,1598,2016,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GMB: Gambia,CME_TMY0: Infant deaths,_T: Total,2018,3192,,D: Number of deaths,A: Normal value,,2845,3558,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GEO: Georgia,CME_TMY0: Infant deaths,F: Female,2018,201,,D: Number of deaths,A: Normal value,,178,230,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GEO: Georgia,CME_TMY0: Infant deaths,M: Male,2018,273,,D: Number of deaths,A: Normal value,,242,310,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GEO: Georgia,CME_TMY0: Infant deaths,_T: Total,2018,474,,D: Number of deaths,A: Normal value,,422,535,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,DEU: Germany,CME_TMY0: Infant deaths,F: Female,2018,1117,,D: Number of deaths,A: Normal value,,1080,1157,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,DEU: Germany,CME_TMY0: Infant deaths,M: Male,2018,1395,,D: Number of deaths,A: Normal value,,1350,1442,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,DEU: Germany,CME_TMY0: Infant deaths,_T: Total,2018,2512,,D: Number of deaths,A: Normal value,,2439,2589,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GHA: Ghana,CME_TMY0: Infant deaths,F: Female,2018,13112,,D: Number of deaths,A: Normal value,,11201,15229,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GHA: Ghana,CME_TMY0: Infant deaths,M: Male,2018,17212,,D: Number of deaths,A: Normal value,,14717,19967,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GHA: Ghana,CME_TMY0: Infant deaths,_T: Total,2018,30324,,D: Number of deaths,A: Normal value,,26023,35144,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GRC: Greece,CME_TMY0: Infant deaths,F: Female,2018,129,,D: Number of deaths,A: Normal value,,120,140,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GRC: Greece,CME_TMY0: Infant deaths,M: Male,2018,162,,D: Number of deaths,A: Normal value,,150,175,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GRC: Greece,CME_TMY0: Infant deaths,_T: Total,2018,291,,D: Number of deaths,A: Normal value,,270,313,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GRD: Grenada,CME_TMY0: Infant deaths,F: Female,2018,12,,D: Number of deaths,A: Normal value,,10,14,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GRD: Grenada,CME_TMY0: Infant deaths,M: Male,2018,15,,D: Number of deaths,A: Normal value,,12,18,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GRD: Grenada,CME_TMY0: Infant deaths,_T: Total,2018,27,,D: Number of deaths,A: Normal value,,23,32,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GTM: Guatemala,CME_TMY0: Infant deaths,F: Female,2018,3893,,D: Number of deaths,A: Normal value,,3152,4759,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GTM: Guatemala,CME_TMY0: Infant deaths,M: Male,2018,5129,,D: Number of deaths,A: Normal value,,4140,6288,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GTM: Guatemala,CME_TMY0: Infant deaths,_T: Total,2018,9022,,D: Number of deaths,A: Normal value,,7320,11016,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GIN: Guinea,CME_TMY0: Infant deaths,F: Female,2018,12963,,D: Number of deaths,A: Normal value,,11193,14996,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GIN: Guinea,CME_TMY0: Infant deaths,M: Male,2018,15969,,D: Number of deaths,A: Normal value,,13840,18529,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GIN: Guinea,CME_TMY0: Infant deaths,_T: Total,2018,28932,,D: Number of deaths,A: Normal value,,25182,33491,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GNB: Guinea-Bissau,CME_TMY0: Infant deaths,F: Female,2018,1548,,D: Number of deaths,A: Normal value,,1077,2175,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GNB: Guinea-Bissau,CME_TMY0: Infant deaths,M: Male,2018,1959,,D: Number of deaths,A: Normal value,,1369,2746,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GNB: Guinea-Bissau,CME_TMY0: Infant deaths,_T: Total,2018,3507,,D: Number of deaths,A: Normal value,,2451,4912,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GUY: Guyana,CME_TMY0: Infant deaths,F: Female,2018,165,,D: Number of deaths,A: Normal value,,108,248,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GUY: Guyana,CME_TMY0: Infant deaths,M: Male,2018,227,,D: Number of deaths,A: Normal value,,148,340,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GUY: Guyana,CME_TMY0: Infant deaths,_T: Total,2018,392,,D: Number of deaths,A: Normal value,,257,586,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,HTI: Haiti,CME_TMY0: Infant deaths,F: Female,2018,5830,,D: Number of deaths,A: Normal value,,4698,7322,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,HTI: Haiti,CME_TMY0: Infant deaths,M: Male,2018,7467,,D: Number of deaths,A: Normal value,,6050,9325,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,HTI: Haiti,CME_TMY0: Infant deaths,_T: Total,2018,13297,,D: Number of deaths,A: Normal value,,10759,16626,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,HND: Honduras,CME_TMY0: Infant deaths,F: Female,2018,1328,,D: Number of deaths,A: Normal value,,909,1890,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,HND: Honduras,CME_TMY0: Infant deaths,M: Male,2018,1754,,D: Number of deaths,A: Normal value,,1207,2497,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,HND: Honduras,CME_TMY0: Infant deaths,_T: Total,2018,3082,,D: Number of deaths,A: Normal value,,2124,4380,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,HUN: Hungary,CME_TMY0: Infant deaths,F: Female,2018,135,,D: Number of deaths,A: Normal value,,125,146,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,HUN: Hungary,CME_TMY0: Infant deaths,M: Male,2018,168,,D: Number of deaths,A: Normal value,,155,180,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,HUN: Hungary,CME_TMY0: Infant deaths,_T: Total,2018,303,,D: Number of deaths,A: Normal value,,282,326,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ISL: Iceland,CME_TMY0: Infant deaths,F: Female,2018,3,,D: Number of deaths,A: Normal value,,2,4,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ISL: Iceland,CME_TMY0: Infant deaths,M: Male,2018,4,,D: Number of deaths,A: Normal value,,3,5,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ISL: Iceland,CME_TMY0: Infant deaths,_T: Total,2018,7,,D: Number of deaths,A: Normal value,,5,8,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,IND: India,CME_TMY0: Infant deaths,F: Female,2018,341012,,D: Number of deaths,A: Normal value,,312181,369307,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,IND: India,CME_TMY0: Infant deaths,M: Male,2018,374519,,D: Number of deaths,A: Normal value,,343317,406659,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,IND: India,CME_TMY0: Infant deaths,_T: Total,2018,715531,,D: Number of deaths,A: Normal value,,657252,773289,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,IDN: Indonesia,CME_TMY0: Infant deaths,F: Female,2018,43737,,D: Number of deaths,A: Normal value,,37669,51125,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,IDN: Indonesia,CME_TMY0: Infant deaths,M: Male,2018,57482,,D: Number of deaths,A: Normal value,,49773,66973,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,IDN: Indonesia,CME_TMY0: Infant deaths,_T: Total,2018,101219,,D: Number of deaths,A: Normal value,,87753,117904,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,IRN: Iran (Islamic Republic of),CME_TMY0: Infant deaths,F: Female,2018,8790,,D: Number of deaths,A: Normal value,,5582,13719,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,IRN: Iran (Islamic Republic of),CME_TMY0: Infant deaths,M: Male,2018,10243,,D: Number of deaths,A: Normal value,,6529,15911,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,IRN: Iran (Islamic Republic of),CME_TMY0: Infant deaths,_T: Total,2018,19033,,D: Number of deaths,A: Normal value,,12152,29620,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,IRQ: Iraq,CME_TMY0: Infant deaths,F: Female,2018,10828,,D: Number of deaths,A: Normal value,,8666,13425,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,IRQ: Iraq,CME_TMY0: Infant deaths,M: Male,2018,14076,,D: Number of deaths,A: Normal value,,11218,17426,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,IRQ: Iraq,CME_TMY0: Infant deaths,_T: Total,2018,24904,,D: Number of deaths,A: Normal value,,19932,30689,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,IRL: Ireland,CME_TMY0: Infant deaths,F: Female,2018,81,,D: Number of deaths,A: Normal value,,72,92,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,IRL: Ireland,CME_TMY0: Infant deaths,M: Male,2018,102,,D: Number of deaths,A: Normal value,,90,115,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,IRL: Ireland,CME_TMY0: Infant deaths,_T: Total,2018,183,,D: Number of deaths,A: Normal value,,163,206,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ISR: Israel,CME_TMY0: Infant deaths,F: Female,2018,230,,D: Number of deaths,A: Normal value,,219,241,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ISR: Israel,CME_TMY0: Infant deaths,M: Male,2018,282,,D: Number of deaths,A: Normal value,,269,294,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ISR: Israel,CME_TMY0: Infant deaths,_T: Total,2018,512,,D: Number of deaths,A: Normal value,,491,532,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ITA: Italy,CME_TMY0: Infant deaths,F: Female,2018,566,,D: Number of deaths,A: Normal value,,535,599,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ITA: Italy,CME_TMY0: Infant deaths,M: Male,2018,708,,D: Number of deaths,A: Normal value,,670,749,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ITA: Italy,CME_TMY0: Infant deaths,_T: Total,2018,1274,,D: Number of deaths,A: Normal value,,1210,1342,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,JAM: Jamaica,CME_TMY0: Infant deaths,F: Female,2018,249,,D: Number of deaths,A: Normal value,,148,421,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,JAM: Jamaica,CME_TMY0: Infant deaths,M: Male,2018,333,,D: Number of deaths,A: Normal value,,198,555,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,JAM: Jamaica,CME_TMY0: Infant deaths,_T: Total,2018,582,,D: Number of deaths,A: Normal value,,347,974,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,JPN: Japan,CME_TMY0: Infant deaths,F: Female,2018,820,,D: Number of deaths,A: Normal value,,790,850,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,JPN: Japan,CME_TMY0: Infant deaths,M: Male,2018,949,,D: Number of deaths,A: Normal value,,917,983,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,JPN: Japan,CME_TMY0: Infant deaths,_T: Total,2018,1769,,D: Number of deaths,A: Normal value,,1714,1825,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,JOR: Jordan,CME_TMY0: Infant deaths,F: Female,2018,1318,,D: Number of deaths,A: Normal value,,1013,1710,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,JOR: Jordan,CME_TMY0: Infant deaths,M: Male,2018,1668,,D: Number of deaths,A: Normal value,,1284,2159,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,JOR: Jordan,CME_TMY0: Infant deaths,_T: Total,2018,2986,,D: Number of deaths,A: Normal value,,2303,3864,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,KAZ: Kazakhstan,CME_TMY0: Infant deaths,F: Female,2018,1489,,D: Number of deaths,A: Normal value,,1411,1570,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,KAZ: Kazakhstan,CME_TMY0: Infant deaths,M: Male,2018,2055,,D: Number of deaths,A: Normal value,,1974,2147,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,KAZ: Kazakhstan,CME_TMY0: Infant deaths,_T: Total,2018,3544,,D: Number of deaths,A: Normal value,,3459,3630,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,KEN: Kenya,CME_TMY0: Infant deaths,F: Female,2018,21312,,D: Number of deaths,A: Normal value,,16991,26824,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,KEN: Kenya,CME_TMY0: Infant deaths,M: Male,2018,26851,,D: Number of deaths,A: Normal value,,21466,33734,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,KEN: Kenya,CME_TMY0: Infant deaths,_T: Total,2018,48163,,D: Number of deaths,A: Normal value,,38572,60437,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,KIR: Kiribati,CME_TMY0: Infant deaths,F: Female,2018,58,,D: Number of deaths,A: Normal value,,36,88,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,KIR: Kiribati,CME_TMY0: Infant deaths,M: Male,2018,75,,D: Number of deaths,A: Normal value,,48,115,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,KIR: Kiribati,CME_TMY0: Infant deaths,_T: Total,2018,133,,D: Number of deaths,A: Normal value,,84,203,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,KWT: Kuwait,CME_TMY0: Infant deaths,F: Female,2018,178,,D: Number of deaths,A: Normal value,,165,192,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,KWT: Kuwait,CME_TMY0: Infant deaths,M: Male,2018,223,,D: Number of deaths,A: Normal value,,207,241,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,KWT: Kuwait,CME_TMY0: Infant deaths,_T: Total,2018,401,,D: Number of deaths,A: Normal value,,373,431,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,KGZ: Kyrgyzstan,CME_TMY0: Infant deaths,F: Female,2018,1148,,D: Number of deaths,A: Normal value,,1082,1216,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,KGZ: Kyrgyzstan,CME_TMY0: Infant deaths,M: Male,2018,1526,,D: Number of deaths,A: Normal value,,1452,1605,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,KGZ: Kyrgyzstan,CME_TMY0: Infant deaths,_T: Total,2018,2674,,D: Number of deaths,A: Normal value,,2579,2773,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_LLDC: Landlocked developing countries (LLDCs),CME_TMY0: Infant deaths,F: Female,2018,276524,,D: Number of deaths,A: Normal value,,262954,296198,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_LLDC: Landlocked developing countries (LLDCs),CME_TMY0: Infant deaths,M: Male,2018,354463,,D: Number of deaths,A: Normal value,,336941,379296,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_LLDC: Landlocked developing countries (LLDCs),CME_TMY0: Infant deaths,_T: Total,2018,630987,,D: Number of deaths,A: Normal value,,601003,675169,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,LAO: Lao People's Democratic Republic,CME_TMY0: Infant deaths,F: Female,2018,2679,,D: Number of deaths,A: Normal value,,2108,3342,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,LAO: Lao People's Democratic Republic,CME_TMY0: Infant deaths,M: Male,2018,3539,,D: Number of deaths,A: Normal value,,2777,4399,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,LAO: Lao People's Democratic Republic,CME_TMY0: Infant deaths,_T: Total,2018,6218,,D: Number of deaths,A: Normal value,,4901,7702,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_LAC: Latin America & the Caribbean,CME_TMY0: Infant deaths,F: Female,2018,64895,,D: Number of deaths,A: Normal value,,61848,69103,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_LAC: Latin America & the Caribbean,CME_TMY0: Infant deaths,M: Male,2018,84595,,D: Number of deaths,A: Normal value,,80606,90163,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_LAC: Latin America & the Caribbean,CME_TMY0: Infant deaths,_T: Total,2018,149490,,D: Number of deaths,A: Normal value,,142720,159025,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_LAC: Latin America and Caribbean,CME_TMY0: Infant deaths,F: Female,2018,64895,,D: Number of deaths,A: Normal value,,61848,69103,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_LAC: Latin America and Caribbean,CME_TMY0: Infant deaths,M: Male,2018,84595,,D: Number of deaths,A: Normal value,,80606,90163,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_LAC: Latin America and Caribbean,CME_TMY0: Infant deaths,_T: Total,2018,149490,,D: Number of deaths,A: Normal value,,142720,159025,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,LVA: Latvia,CME_TMY0: Infant deaths,F: Female,2018,30,,D: Number of deaths,A: Normal value,,26,36,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,LVA: Latvia,CME_TMY0: Infant deaths,M: Male,2018,38,,D: Number of deaths,A: Normal value,,32,45,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,LVA: Latvia,CME_TMY0: Infant deaths,_T: Total,2018,68,,D: Number of deaths,A: Normal value,,58,81,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_LDC: Least developed countries (LDCs),CME_TMY0: Infant deaths,F: Female,2018,639891,,D: Number of deaths,A: Normal value,,604307,695235,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_LDC: Least developed countries (LDCs),CME_TMY0: Infant deaths,M: Male,2018,801039,,D: Number of deaths,A: Normal value,,757489,869281,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_LDC: Least developed countries (LDCs),CME_TMY0: Infant deaths,_T: Total,2018,1440930,,D: Number of deaths,A: Normal value,,1363821,1564232,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,LBN: Lebanon,CME_TMY0: Infant deaths,F: Female,2018,348,,D: Number of deaths,A: Normal value,,177,662,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,LBN: Lebanon,CME_TMY0: Infant deaths,M: Male,2018,394,,D: Number of deaths,A: Normal value,,202,748,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,LBN: Lebanon,CME_TMY0: Infant deaths,_T: Total,2018,742,,D: Number of deaths,A: Normal value,,381,1407,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,LSO: Lesotho,CME_TMY0: Infant deaths,F: Female,2018,1717,,D: Number of deaths,A: Normal value,,1268,2294,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,LSO: Lesotho,CME_TMY0: Infant deaths,M: Male,2018,2151,,D: Number of deaths,A: Normal value,,1590,2869,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,LSO: Lesotho,CME_TMY0: Infant deaths,_T: Total,2018,3868,,D: Number of deaths,A: Normal value,,2864,5161,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,LBR: Liberia,CME_TMY0: Infant deaths,F: Female,2018,4384,,D: Number of deaths,A: Normal value,,3642,5313,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,LBR: Liberia,CME_TMY0: Infant deaths,M: Male,2018,5546,,D: Number of deaths,A: Normal value,,4612,6718,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,LBR: Liberia,CME_TMY0: Infant deaths,_T: Total,2018,9930,,D: Number of deaths,A: Normal value,,8279,12010,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,LBY: Libya,CME_TMY0: Infant deaths,F: Female,2018,559,,D: Number of deaths,A: Normal value,,360,867,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,LBY: Libya,CME_TMY0: Infant deaths,M: Male,2018,737,,D: Number of deaths,A: Normal value,,474,1139,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,LBY: Libya,CME_TMY0: Infant deaths,_T: Total,2018,1296,,D: Number of deaths,A: Normal value,,835,2007,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,LTU: Lithuania,CME_TMY0: Infant deaths,F: Female,2018,43,,D: Number of deaths,A: Normal value,,39,47,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,LTU: Lithuania,CME_TMY0: Infant deaths,M: Male,2018,53,,D: Number of deaths,A: Normal value,,49,58,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,LTU: Lithuania,CME_TMY0: Infant deaths,_T: Total,2018,96,,D: Number of deaths,A: Normal value,,88,105,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,LUX: Luxembourg,CME_TMY0: Infant deaths,F: Female,2018,6,,D: Number of deaths,A: Normal value,,5,8,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,LUX: Luxembourg,CME_TMY0: Infant deaths,M: Male,2018,9,,D: Number of deaths,A: Normal value,,6,10,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,LUX: Luxembourg,CME_TMY0: Infant deaths,_T: Total,2018,15,,D: Number of deaths,A: Normal value,,12,18,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MDG: Madagascar,CME_TMY0: Infant deaths,F: Female,2018,13978,,D: Number of deaths,A: Normal value,,11772,16612,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MDG: Madagascar,CME_TMY0: Infant deaths,M: Male,2018,17718,,D: Number of deaths,A: Normal value,,14983,21023,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MDG: Madagascar,CME_TMY0: Infant deaths,_T: Total,2018,31696,,D: Number of deaths,A: Normal value,,26894,37544,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MWI: Malawi,CME_TMY0: Infant deaths,F: Female,2018,8587,,D: Number of deaths,A: Normal value,,6209,11300,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MWI: Malawi,CME_TMY0: Infant deaths,M: Male,2018,11078,,D: Number of deaths,A: Normal value,,8018,14503,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MWI: Malawi,CME_TMY0: Infant deaths,_T: Total,2018,19665,,D: Number of deaths,A: Normal value,,14275,25782,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MYS: Malaysia,CME_TMY0: Infant deaths,F: Female,2018,1689,,D: Number of deaths,A: Normal value,,1631,1751,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MYS: Malaysia,CME_TMY0: Infant deaths,M: Male,2018,2109,,D: Number of deaths,A: Normal value,,2039,2183,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MYS: Malaysia,CME_TMY0: Infant deaths,_T: Total,2018,3798,,D: Number of deaths,A: Normal value,,3679,3919,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MDV: Maldives,CME_TMY0: Infant deaths,F: Female,2018,22,,D: Number of deaths,A: Normal value,,20,25,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MDV: Maldives,CME_TMY0: Infant deaths,M: Male,2018,28,,D: Number of deaths,A: Normal value,,25,32,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MDV: Maldives,CME_TMY0: Infant deaths,_T: Total,2018,50,,D: Number of deaths,A: Normal value,,45,56,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MLI: Mali,CME_TMY0: Infant deaths,F: Female,2018,21365,,D: Number of deaths,A: Normal value,,18561,24587,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MLI: Mali,CME_TMY0: Infant deaths,M: Male,2018,26826,,D: Number of deaths,A: Normal value,,23278,30837,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MLI: Mali,CME_TMY0: Infant deaths,_T: Total,2018,48191,,D: Number of deaths,A: Normal value,,42079,55252,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MLT: Malta,CME_TMY0: Infant deaths,F: Female,2018,12,,D: Number of deaths,A: Normal value,,10,14,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MLT: Malta,CME_TMY0: Infant deaths,M: Male,2018,14,,D: Number of deaths,A: Normal value,,12,18,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MLT: Malta,CME_TMY0: Infant deaths,_T: Total,2018,26,,D: Number of deaths,A: Normal value,,22,32,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MHL: Marshall Islands,CME_TMY0: Infant deaths,F: Female,2018,16,,D: Number of deaths,A: Normal value,,11,24,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MHL: Marshall Islands,CME_TMY0: Infant deaths,M: Male,2018,22,,D: Number of deaths,A: Normal value,,14,32,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MHL: Marshall Islands,CME_TMY0: Infant deaths,_T: Total,2018,38,,D: Number of deaths,A: Normal value,,25,55,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MRT: Mauritania,CME_TMY0: Infant deaths,F: Female,2018,3263,,D: Number of deaths,A: Normal value,,2028,5196,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MRT: Mauritania,CME_TMY0: Infant deaths,M: Male,2018,4245,,D: Number of deaths,A: Normal value,,2639,6714,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MRT: Mauritania,CME_TMY0: Infant deaths,_T: Total,2018,7508,,D: Number of deaths,A: Normal value,,4672,11884,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MUS: Mauritius,CME_TMY0: Infant deaths,F: Female,2018,77,,D: Number of deaths,A: Normal value,,72,84,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MUS: Mauritius,CME_TMY0: Infant deaths,M: Male,2018,100,,D: Number of deaths,A: Normal value,,92,107,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MUS: Mauritius,CME_TMY0: Infant deaths,_T: Total,2018,177,,D: Number of deaths,A: Normal value,,165,189,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MEX: Mexico,CME_TMY0: Infant deaths,F: Female,2018,12269,,D: Number of deaths,A: Normal value,,11316,13283,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MEX: Mexico,CME_TMY0: Infant deaths,M: Male,2018,15775,,D: Number of deaths,A: Normal value,,14565,17062,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MEX: Mexico,CME_TMY0: Infant deaths,_T: Total,2018,28044,,D: Number of deaths,A: Normal value,,25900,30310,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,FSM: Micronesia (Federated States of),CME_TMY0: Infant deaths,F: Female,2018,28,,D: Number of deaths,A: Normal value,,12,60,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,FSM: Micronesia (Federated States of),CME_TMY0: Infant deaths,M: Male,2018,37,,D: Number of deaths,A: Normal value,,16,80,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,FSM: Micronesia (Federated States of),CME_TMY0: Infant deaths,_T: Total,2018,65,,D: Number of deaths,A: Normal value,,28,139,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_MENA: Middle East and North Africa,CME_TMY0: Infant deaths,F: Female,2018,83186,,D: Number of deaths,A: Normal value,,74335,95405,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_MENA: Middle East and North Africa,CME_TMY0: Infant deaths,M: Male,2018,103077,,D: Number of deaths,A: Normal value,,92070,118133,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_MENA: Middle East and North Africa,CME_TMY0: Infant deaths,_T: Total,2018,186263,,D: Number of deaths,A: Normal value,,166459,213346,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MCO: Monaco,CME_TMY0: Infant deaths,F: Female,2018,0,,D: Number of deaths,A: Normal value,,0,1,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MCO: Monaco,CME_TMY0: Infant deaths,M: Male,2018,1,,D: Number of deaths,A: Normal value,,1,1,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MCO: Monaco,CME_TMY0: Infant deaths,_T: Total,2018,1,,D: Number of deaths,A: Normal value,,1,2,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MNG: Mongolia,CME_TMY0: Infant deaths,F: Female,2018,461,,D: Number of deaths,A: Normal value,,444,479,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MNG: Mongolia,CME_TMY0: Infant deaths,M: Male,2018,624,,D: Number of deaths,A: Normal value,,602,643,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MNG: Mongolia,CME_TMY0: Infant deaths,_T: Total,2018,1085,,D: Number of deaths,A: Normal value,,1059,1112,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MNE: Montenegro,CME_TMY0: Infant deaths,F: Female,2018,7,,D: Number of deaths,A: Normal value,,6,9,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MNE: Montenegro,CME_TMY0: Infant deaths,M: Male,2018,9,,D: Number of deaths,A: Normal value,,7,11,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MNE: Montenegro,CME_TMY0: Infant deaths,_T: Total,2018,16,,D: Number of deaths,A: Normal value,,14,20,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MAR: Morocco,CME_TMY0: Infant deaths,F: Female,2018,5642,,D: Number of deaths,A: Normal value,,4343,7274,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MAR: Morocco,CME_TMY0: Infant deaths,M: Male,2018,7393,,D: Number of deaths,A: Normal value,,5701,9527,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MAR: Morocco,CME_TMY0: Infant deaths,_T: Total,2018,13035,,D: Number of deaths,A: Normal value,,10054,16713,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MOZ: Mozambique,CME_TMY0: Infant deaths,F: Female,2018,28194,,D: Number of deaths,A: Normal value,,21359,37993,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MOZ: Mozambique,CME_TMY0: Infant deaths,M: Male,2018,33180,,D: Number of deaths,A: Normal value,,25151,44699,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MOZ: Mozambique,CME_TMY0: Infant deaths,_T: Total,2018,61374,,D: Number of deaths,A: Normal value,,46645,82677,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MMR: Myanmar,CME_TMY0: Infant deaths,F: Female,2018,15221,,D: Number of deaths,A: Normal value,,11219,19786,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MMR: Myanmar,CME_TMY0: Infant deaths,M: Male,2018,19445,,D: Number of deaths,A: Normal value,,14413,25285,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MMR: Myanmar,CME_TMY0: Infant deaths,_T: Total,2018,34666,,D: Number of deaths,A: Normal value,,25756,45053,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,NAM: Namibia,CME_TMY0: Infant deaths,F: Female,2018,969,,D: Number of deaths,A: Normal value,,619,1528,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,NAM: Namibia,CME_TMY0: Infant deaths,M: Male,2018,1203,,D: Number of deaths,A: Normal value,,768,1885,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,NAM: Namibia,CME_TMY0: Infant deaths,_T: Total,2018,2172,,D: Number of deaths,A: Normal value,,1389,3418,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,NRU: Nauru,CME_TMY0: Infant deaths,F: Female,2018,3,,D: Number of deaths,A: Normal value,,2,6,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,NRU: Nauru,CME_TMY0: Infant deaths,M: Male,2018,5,,D: Number of deaths,A: Normal value,,3,7,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,NRU: Nauru,CME_TMY0: Infant deaths,_T: Total,2018,8,,D: Number of deaths,A: Normal value,,5,13,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,NPL: Nepal,CME_TMY0: Infant deaths,F: Female,2018,6557,,D: Number of deaths,A: Normal value,,5288,8187,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,NPL: Nepal,CME_TMY0: Infant deaths,M: Male,2018,8323,,D: Number of deaths,A: Normal value,,6689,10368,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,NPL: Nepal,CME_TMY0: Infant deaths,_T: Total,2018,14880,,D: Number of deaths,A: Normal value,,12018,18460,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,NLD: Netherlands,CME_TMY0: Infant deaths,F: Female,2018,261,,D: Number of deaths,A: Normal value,,250,271,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,NLD: Netherlands,CME_TMY0: Infant deaths,M: Male,2018,332,,D: Number of deaths,A: Normal value,,320,345,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,NLD: Netherlands,CME_TMY0: Infant deaths,_T: Total,2018,593,,D: Number of deaths,A: Normal value,,574,612,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,NZL: New Zealand,CME_TMY0: Infant deaths,F: Female,2018,107,,D: Number of deaths,A: Normal value,,95,120,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,NZL: New Zealand,CME_TMY0: Infant deaths,M: Male,2018,137,,D: Number of deaths,A: Normal value,,120,152,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,NZL: New Zealand,CME_TMY0: Infant deaths,_T: Total,2018,244,,D: Number of deaths,A: Normal value,,216,271,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,NIC: Nicaragua,CME_TMY0: Infant deaths,F: Female,2018,848,,D: Number of deaths,A: Normal value,,755,970,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,NIC: Nicaragua,CME_TMY0: Infant deaths,M: Male,2018,1136,,D: Number of deaths,A: Normal value,,1012,1299,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,NIC: Nicaragua,CME_TMY0: Infant deaths,_T: Total,2018,1984,,D: Number of deaths,A: Normal value,,1769,2264,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,NER: Niger,CME_TMY0: Infant deaths,F: Female,2018,21568,,D: Number of deaths,A: Normal value,,16318,28384,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,NER: Niger,CME_TMY0: Infant deaths,M: Male,2018,27038,,D: Number of deaths,A: Normal value,,20466,35649,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,NER: Niger,CME_TMY0: Infant deaths,_T: Total,2018,48606,,D: Number of deaths,A: Normal value,,36913,63826,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,NGA: Nigeria,CME_TMY0: Infant deaths,F: Female,2018,244093,,D: Number of deaths,A: Normal value,,202401,299948,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,NGA: Nigeria,CME_TMY0: Infant deaths,M: Male,2018,308059,,D: Number of deaths,A: Normal value,,256640,377723,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,NGA: Nigeria,CME_TMY0: Infant deaths,_T: Total,2018,552152,,D: Number of deaths,A: Normal value,,460039,676723,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,NIU: Niue,CME_TMY0: Infant deaths,F: Female,2018,1,,D: Number of deaths,A: Normal value,,0,1,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,NIU: Niue,CME_TMY0: Infant deaths,M: Male,2018,0,,D: Number of deaths,A: Normal value,,0,1,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,NIU: Niue,CME_TMY0: Infant deaths,_T: Total,2018,1,,D: Number of deaths,A: Normal value,,0,1,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_NA: North America,CME_TMY0: Infant deaths,F: Female,2018,10547,,D: Number of deaths,A: Normal value,,10126,10996,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_NORTHERNAMR: North America,CME_TMY0: Infant deaths,F: Female,2018,10547,,D: Number of deaths,A: Normal value,,10126,10996,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_NA: North America,CME_TMY0: Infant deaths,M: Male,2018,13153,,D: Number of deaths,A: Normal value,,12632,13698,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_NORTHERNAMR: North America,CME_TMY0: Infant deaths,M: Male,2018,13153,,D: Number of deaths,A: Normal value,,12632,13698,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_NA: North America,CME_TMY0: Infant deaths,_T: Total,2018,23700,,D: Number of deaths,A: Normal value,,22828,24636,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_NORTHERNAMR: North America,CME_TMY0: Infant deaths,_T: Total,2018,23700,,D: Number of deaths,A: Normal value,,22828,24636,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MKD: North Macedonia,CME_TMY0: Infant deaths,F: Female,2018,70,,D: Number of deaths,A: Normal value,,64,76,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MKD: North Macedonia,CME_TMY0: Infant deaths,M: Male,2018,85,,D: Number of deaths,A: Normal value,,78,93,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MKD: North Macedonia,CME_TMY0: Infant deaths,_T: Total,2018,155,,D: Number of deaths,A: Normal value,,142,167,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_NORTHAFR: Northern Africa,CME_TMY0: Infant deaths,F: Female,2018,62247,,D: Number of deaths,A: Normal value,,54692,72053,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_NORTHAFR: Northern Africa,CME_TMY0: Infant deaths,M: Male,2018,78226,,D: Number of deaths,A: Normal value,,68878,90333,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_NORTHAFR: Northern Africa,CME_TMY0: Infant deaths,_T: Total,2018,140473,,D: Number of deaths,A: Normal value,,123601,162281,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_WESTERNASIANORTHERNAFR: Northern Africa and Western Asia,CME_TMY0: Infant deaths,F: Female,2018,105950,,D: Number of deaths,A: Normal value,,96366,118849,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_WESTERNASIANORTHERNAFR: Northern Africa and Western Asia,CME_TMY0: Infant deaths,M: Male,2018,133393,,D: Number of deaths,A: Normal value,,121383,149337,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_WESTERNASIANORTHERNAFR: Northern Africa and Western Asia,CME_TMY0: Infant deaths,_T: Total,2018,239343,,D: Number of deaths,A: Normal value,,217936,268050,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,NOR: Norway,CME_TMY0: Infant deaths,F: Female,2018,53,,D: Number of deaths,A: Normal value,,49,57,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,NOR: Norway,CME_TMY0: Infant deaths,M: Male,2018,67,,D: Number of deaths,A: Normal value,,63,73,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,NOR: Norway,CME_TMY0: Infant deaths,_T: Total,2018,120,,D: Number of deaths,A: Normal value,,112,129,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_OCEANIA: Oceania,CME_TMY0: Infant deaths,F: Female,2018,4850,,D: Number of deaths,A: Normal value,,3980,5950,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_OCEANIA: Oceania,CME_TMY0: Infant deaths,M: Male,2018,6214,,D: Number of deaths,A: Normal value,,5106,7607,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_OCEANIA: Oceania,CME_TMY0: Infant deaths,_T: Total,2018,11064,,D: Number of deaths,A: Normal value,,9091,13515,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_OCEANIAexAUSNZL: Oceania excluding Australia and New Zealand,CME_TMY0: Infant deaths,F: Female,2018,4308,,D: Number of deaths,A: Normal value,,3437,5406,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_OCEANIAexAUSNZL: Oceania excluding Australia and New Zealand,CME_TMY0: Infant deaths,M: Male,2018,5528,,D: Number of deaths,A: Normal value,,4419,6921,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_OCEANIAexAUSNZL: Oceania excluding Australia and New Zealand,CME_TMY0: Infant deaths,_T: Total,2018,9836,,D: Number of deaths,A: Normal value,,7867,12292,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,OMN: Oman,CME_TMY0: Infant deaths,F: Female,2018,388,,D: Number of deaths,A: Normal value,,354,425,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,OMN: Oman,CME_TMY0: Infant deaths,M: Male,2018,501,,D: Number of deaths,A: Normal value,,460,546,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,OMN: Oman,CME_TMY0: Infant deaths,_T: Total,2018,889,,D: Number of deaths,A: Normal value,,823,958,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,PAK: Pakistan,CME_TMY0: Infant deaths,F: Female,2018,147151,,D: Number of deaths,A: Normal value,,130938,165942,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,PAK: Pakistan,CME_TMY0: Infant deaths,M: Male,2018,191615,,D: Number of deaths,A: Normal value,,170741,215708,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,PAK: Pakistan,CME_TMY0: Infant deaths,_T: Total,2018,338766,,D: Number of deaths,A: Normal value,,302247,379933,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,PLW: Palau,CME_TMY0: Infant deaths,F: Female,2018,2,,D: Number of deaths,A: Normal value,,1,3,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,PLW: Palau,CME_TMY0: Infant deaths,M: Male,2018,2,,D: Number of deaths,A: Normal value,,1,4,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,PLW: Palau,CME_TMY0: Infant deaths,_T: Total,2018,4,,D: Number of deaths,A: Normal value,,2,7,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,PAN: Panama,CME_TMY0: Infant deaths,F: Female,2018,452,,D: Number of deaths,A: Normal value,,253,786,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,PAN: Panama,CME_TMY0: Infant deaths,M: Male,2018,589,,D: Number of deaths,A: Normal value,,331,1020,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,PAN: Panama,CME_TMY0: Infant deaths,_T: Total,2018,1041,,D: Number of deaths,A: Normal value,,586,1805,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,PNG: Papua New Guinea,CME_TMY0: Infant deaths,F: Female,2018,3724,,D: Number of deaths,A: Normal value,,2841,4809,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,PNG: Papua New Guinea,CME_TMY0: Infant deaths,M: Male,2018,4793,,D: Number of deaths,A: Normal value,,3667,6172,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,PNG: Papua New Guinea,CME_TMY0: Infant deaths,_T: Total,2018,8517,,D: Number of deaths,A: Normal value,,6542,10960,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,PRY: Paraguay,CME_TMY0: Infant deaths,F: Female,2018,1069,,D: Number of deaths,A: Normal value,,580,1955,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,PRY: Paraguay,CME_TMY0: Infant deaths,M: Male,2018,1383,,D: Number of deaths,A: Normal value,,750,2521,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,PRY: Paraguay,CME_TMY0: Infant deaths,_T: Total,2018,2452,,D: Number of deaths,A: Normal value,,1333,4471,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,PER: Peru,CME_TMY0: Infant deaths,F: Female,2018,2672,,D: Number of deaths,A: Normal value,,2216,3246,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,PER: Peru,CME_TMY0: Infant deaths,M: Male,2018,3425,,D: Number of deaths,A: Normal value,,2840,4163,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,PER: Peru,CME_TMY0: Infant deaths,_T: Total,2018,6097,,D: Number of deaths,A: Normal value,,5076,7377,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,PHL: Philippines,CME_TMY0: Infant deaths,F: Female,2018,20856,,D: Number of deaths,A: Normal value,,16387,26054,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,PHL: Philippines,CME_TMY0: Infant deaths,M: Male,2018,27816,,D: Number of deaths,A: Normal value,,21869,34594,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,PHL: Philippines,CME_TMY0: Infant deaths,_T: Total,2018,48672,,D: Number of deaths,A: Normal value,,38339,60490,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,POL: Poland,CME_TMY0: Infant deaths,F: Female,2018,635,,D: Number of deaths,A: Normal value,,615,654,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,POL: Poland,CME_TMY0: Infant deaths,M: Male,2018,794,,D: Number of deaths,A: Normal value,,773,818,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,POL: Poland,CME_TMY0: Infant deaths,_T: Total,2018,1429,,D: Number of deaths,A: Normal value,,1396,1465,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,PRT: Portugal,CME_TMY0: Infant deaths,F: Female,2018,107,,D: Number of deaths,A: Normal value,,101,113,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,PRT: Portugal,CME_TMY0: Infant deaths,M: Male,2018,137,,D: Number of deaths,A: Normal value,,130,145,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,PRT: Portugal,CME_TMY0: Infant deaths,_T: Total,2018,244,,D: Number of deaths,A: Normal value,,232,257,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,QAT: Qatar,CME_TMY0: Infant deaths,F: Female,2018,69,,D: Number of deaths,A: Normal value,,62,77,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,QAT: Qatar,CME_TMY0: Infant deaths,M: Male,2018,84,,D: Number of deaths,A: Normal value,,76,94,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,QAT: Qatar,CME_TMY0: Infant deaths,_T: Total,2018,153,,D: Number of deaths,A: Normal value,,138,170,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,KOR: Republic of Korea,CME_TMY0: Infant deaths,F: Female,2018,474,,D: Number of deaths,A: Normal value,,455,495,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,KOR: Republic of Korea,CME_TMY0: Infant deaths,M: Male,2018,593,,D: Number of deaths,A: Normal value,,569,617,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,KOR: Republic of Korea,CME_TMY0: Infant deaths,_T: Total,2018,1067,,D: Number of deaths,A: Normal value,,1028,1107,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MDA: Republic of Moldova,CME_TMY0: Infant deaths,F: Female,2018,223,,D: Number of deaths,A: Normal value,,171,287,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MDA: Republic of Moldova,CME_TMY0: Infant deaths,M: Male,2018,297,,D: Number of deaths,A: Normal value,,229,383,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,MDA: Republic of Moldova,CME_TMY0: Infant deaths,_T: Total,2018,520,,D: Number of deaths,A: Normal value,,402,667,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ROU: Romania,CME_TMY0: Infant deaths,F: Female,2018,513,,D: Number of deaths,A: Normal value,,496,531,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ROU: Romania,CME_TMY0: Infant deaths,M: Male,2018,664,,D: Number of deaths,A: Normal value,,644,686,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ROU: Romania,CME_TMY0: Infant deaths,_T: Total,2018,1177,,D: Number of deaths,A: Normal value,,1145,1212,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,RUS: Russian Federation,CME_TMY0: Infant deaths,F: Female,2018,4349,,D: Number of deaths,A: Normal value,,4243,4459,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,RUS: Russian Federation,CME_TMY0: Infant deaths,M: Male,2018,5614,,D: Number of deaths,A: Normal value,,5482,5754,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,RUS: Russian Federation,CME_TMY0: Infant deaths,_T: Total,2018,9963,,D: Number of deaths,A: Normal value,,9742,10187,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,RWA: Rwanda,CME_TMY0: Infant deaths,F: Female,2018,4702,,D: Number of deaths,A: Normal value,,2884,7154,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,RWA: Rwanda,CME_TMY0: Infant deaths,M: Male,2018,5857,,D: Number of deaths,A: Normal value,,3613,8951,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,RWA: Rwanda,CME_TMY0: Infant deaths,_T: Total,2018,10559,,D: Number of deaths,A: Normal value,,6500,16093,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,KNA: Saint Kitts and Nevis,CME_TMY0: Infant deaths,F: Female,2018,4,,D: Number of deaths,A: Normal value,,3,6,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,KNA: Saint Kitts and Nevis,CME_TMY0: Infant deaths,M: Male,2018,5,,D: Number of deaths,A: Normal value,,4,7,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,KNA: Saint Kitts and Nevis,CME_TMY0: Infant deaths,_T: Total,2018,9,,D: Number of deaths,A: Normal value,,7,12,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,LCA: Saint Lucia,CME_TMY0: Infant deaths,F: Female,2018,19,,D: Number of deaths,A: Normal value,,17,22,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,LCA: Saint Lucia,CME_TMY0: Infant deaths,M: Male,2018,24,,D: Number of deaths,A: Normal value,,21,27,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,LCA: Saint Lucia,CME_TMY0: Infant deaths,_T: Total,2018,43,,D: Number of deaths,A: Normal value,,38,49,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,VCT: Saint Vincent and the Grenadines,CME_TMY0: Infant deaths,F: Female,2018,10,,D: Number of deaths,A: Normal value,,8,12,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,VCT: Saint Vincent and the Grenadines,CME_TMY0: Infant deaths,M: Male,2018,12,,D: Number of deaths,A: Normal value,,10,15,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,VCT: Saint Vincent and the Grenadines,CME_TMY0: Infant deaths,_T: Total,2018,22,,D: Number of deaths,A: Normal value,,18,27,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,WSM: Samoa,CME_TMY0: Infant deaths,F: Female,2018,28,,D: Number of deaths,A: Normal value,,20,39,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,WSM: Samoa,CME_TMY0: Infant deaths,M: Male,2018,36,,D: Number of deaths,A: Normal value,,26,51,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,WSM: Samoa,CME_TMY0: Infant deaths,_T: Total,2018,64,,D: Number of deaths,A: Normal value,,45,89,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SMR: San Marino,CME_TMY0: Infant deaths,F: Female,2018,0,,D: Number of deaths,A: Normal value,,0,0,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SMR: San Marino,CME_TMY0: Infant deaths,M: Male,2018,0,,D: Number of deaths,A: Normal value,,0,0,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SMR: San Marino,CME_TMY0: Infant deaths,_T: Total,2018,0,,D: Number of deaths,A: Normal value,,0,1,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,STP: Sao Tome and Principe,CME_TMY0: Infant deaths,F: Female,2018,70,,D: Number of deaths,A: Normal value,,45,102,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,STP: Sao Tome and Principe,CME_TMY0: Infant deaths,M: Male,2018,90,,D: Number of deaths,A: Normal value,,58,133,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,STP: Sao Tome and Principe,CME_TMY0: Infant deaths,_T: Total,2018,160,,D: Number of deaths,A: Normal value,,104,234,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SAU: Saudi Arabia,CME_TMY0: Infant deaths,F: Female,2018,1671,,D: Number of deaths,A: Normal value,,1283,2221,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SAU: Saudi Arabia,CME_TMY0: Infant deaths,M: Male,2018,1911,,D: Number of deaths,A: Normal value,,1470,2537,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SAU: Saudi Arabia,CME_TMY0: Infant deaths,_T: Total,2018,3582,,D: Number of deaths,A: Normal value,,2775,4741,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SEN: Senegal,CME_TMY0: Infant deaths,F: Female,2018,7928,,D: Number of deaths,A: Normal value,,6744,9248,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SEN: Senegal,CME_TMY0: Infant deaths,M: Male,2018,10253,,D: Number of deaths,A: Normal value,,8759,11938,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SEN: Senegal,CME_TMY0: Infant deaths,_T: Total,2018,18181,,D: Number of deaths,A: Normal value,,15560,21154,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SRB: Serbia,CME_TMY0: Infant deaths,F: Female,2018,174,,D: Number of deaths,A: Normal value,,151,199,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SRB: Serbia,CME_TMY0: Infant deaths,M: Male,2018,228,,D: Number of deaths,A: Normal value,,200,261,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SRB: Serbia,CME_TMY0: Infant deaths,_T: Total,2018,402,,D: Number of deaths,A: Normal value,,352,458,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SYC: Seychelles,CME_TMY0: Infant deaths,F: Female,2018,9,,D: Number of deaths,A: Normal value,,7,11,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SYC: Seychelles,CME_TMY0: Infant deaths,M: Male,2018,11,,D: Number of deaths,A: Normal value,,9,14,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SYC: Seychelles,CME_TMY0: Infant deaths,_T: Total,2018,20,,D: Number of deaths,A: Normal value,,16,26,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SLE: Sierra Leone,CME_TMY0: Infant deaths,F: Female,2018,9692,,D: Number of deaths,A: Normal value,,8464,10958,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SLE: Sierra Leone,CME_TMY0: Infant deaths,M: Male,2018,11282,,D: Number of deaths,A: Normal value,,9858,12753,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SLE: Sierra Leone,CME_TMY0: Infant deaths,_T: Total,2018,20974,,D: Number of deaths,A: Normal value,,18408,23634,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SGP: Singapore,CME_TMY0: Infant deaths,F: Female,2018,47,,D: Number of deaths,A: Normal value,,43,52,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SGP: Singapore,CME_TMY0: Infant deaths,M: Male,2018,59,,D: Number of deaths,A: Normal value,,54,65,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SGP: Singapore,CME_TMY0: Infant deaths,_T: Total,2018,106,,D: Number of deaths,A: Normal value,,98,116,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SVK: Slovakia,CME_TMY0: Infant deaths,F: Female,2018,119,,D: Number of deaths,A: Normal value,,113,125,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SVK: Slovakia,CME_TMY0: Infant deaths,M: Male,2018,153,,D: Number of deaths,A: Normal value,,145,160,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SVK: Slovakia,CME_TMY0: Infant deaths,_T: Total,2018,272,,D: Number of deaths,A: Normal value,,260,284,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SVN: Slovenia,CME_TMY0: Infant deaths,F: Female,2018,16,,D: Number of deaths,A: Normal value,,14,18,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SVN: Slovenia,CME_TMY0: Infant deaths,M: Male,2018,19,,D: Number of deaths,A: Normal value,,17,22,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SVN: Slovenia,CME_TMY0: Infant deaths,_T: Total,2018,35,,D: Number of deaths,A: Normal value,,31,40,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_SIDS: Small Island Developing States (SIDS),CME_TMY0: Infant deaths,F: Female,2018,16343,,D: Number of deaths,A: Normal value,,14747,18656,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_SIDS: Small Island Developing States (SIDS),CME_TMY0: Infant deaths,M: Male,2018,20910,,D: Number of deaths,A: Normal value,,18936,23885,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_SIDS: Small Island Developing States (SIDS),CME_TMY0: Infant deaths,_T: Total,2018,37253,,D: Number of deaths,A: Normal value,,33741,42454,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SLB: Solomon Islands,CME_TMY0: Infant deaths,F: Female,2018,159,,D: Number of deaths,A: Normal value,,109,224,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SLB: Solomon Islands,CME_TMY0: Infant deaths,M: Male,2018,204,,D: Number of deaths,A: Normal value,,141,288,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SLB: Solomon Islands,CME_TMY0: Infant deaths,_T: Total,2018,363,,D: Number of deaths,A: Normal value,,250,510,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SOM: Somalia,CME_TMY0: Infant deaths,F: Female,2018,21186,,D: Number of deaths,A: Normal value,,12311,38178,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SOM: Somalia,CME_TMY0: Infant deaths,M: Male,2018,25375,,D: Number of deaths,A: Normal value,,14763,45857,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SOM: Somalia,CME_TMY0: Infant deaths,_T: Total,2018,46561,,D: Number of deaths,A: Normal value,,27068,84059,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ZAF: South Africa,CME_TMY0: Infant deaths,F: Female,2018,14786,,D: Number of deaths,A: Normal value,,13450,16211,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ZAF: South Africa,CME_TMY0: Infant deaths,M: Male,2018,18096,,D: Number of deaths,A: Normal value,,16480,19827,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ZAF: South Africa,CME_TMY0: Infant deaths,_T: Total,2018,32882,,D: Number of deaths,A: Normal value,,30094,35905,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_SA: South Asia,CME_TMY0: Infant deaths,F: Female,2018,557276,,D: Number of deaths,A: Normal value,,523445,592010,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_SA: South Asia,CME_TMY0: Infant deaths,M: Male,2018,650171,,D: Number of deaths,A: Normal value,,612026,690881,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_SA: South Asia,CME_TMY0: Infant deaths,_T: Total,2018,1207447,,D: Number of deaths,A: Normal value,,1138162,1279672,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SSD: South Sudan,CME_TMY0: Infant deaths,F: Female,2018,10728,,D: Number of deaths,A: Normal value,,5365,18811,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SSD: South Sudan,CME_TMY0: Infant deaths,M: Male,2018,13118,,D: Number of deaths,A: Normal value,,6566,23009,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SSD: South Sudan,CME_TMY0: Infant deaths,_T: Total,2018,23846,,D: Number of deaths,A: Normal value,,11955,41786,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_SOUTHEASTERNASIA: South-Eastern Asia,CME_TMY0: Infant deaths,F: Female,2018,101615,,D: Number of deaths,A: Normal value,,92941,112965,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_SOUTHEASTERNASIA: South-Eastern Asia,CME_TMY0: Infant deaths,M: Male,2018,135017,,D: Number of deaths,A: Normal value,,123720,150132,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_SOUTHEASTERNASIA: South-Eastern Asia,CME_TMY0: Infant deaths,_T: Total,2018,236632,,D: Number of deaths,A: Normal value,,216903,262564,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_SOUTHASIA: Southern Asia,CME_TMY0: Infant deaths,F: Female,2018,566066,,D: Number of deaths,A: Normal value,,532209,601618,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_SOUTHASIA: Southern Asia,CME_TMY0: Infant deaths,M: Male,2018,660414,,D: Number of deaths,A: Normal value,,622075,701881,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_SOUTHASIA: Southern Asia,CME_TMY0: Infant deaths,_T: Total,2018,1226480,,D: Number of deaths,A: Normal value,,1156979,1300484,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ESP: Spain,CME_TMY0: Infant deaths,F: Female,2018,463,,D: Number of deaths,A: Normal value,,438,491,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ESP: Spain,CME_TMY0: Infant deaths,M: Male,2018,589,,D: Number of deaths,A: Normal value,,558,624,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ESP: Spain,CME_TMY0: Infant deaths,_T: Total,2018,1052,,D: Number of deaths,A: Normal value,,999,1111,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,LKA: Sri Lanka,CME_TMY0: Infant deaths,F: Female,2018,952,,D: Number of deaths,A: Normal value,,810,1113,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,LKA: Sri Lanka,CME_TMY0: Infant deaths,M: Male,2018,1192,,D: Number of deaths,A: Normal value,,1015,1394,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,LKA: Sri Lanka,CME_TMY0: Infant deaths,_T: Total,2018,2144,,D: Number of deaths,A: Normal value,,1828,2504,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,PSE: State of Palestine,CME_TMY0: Infant deaths,F: Female,2018,1083,,D: Number of deaths,A: Normal value,,802,1485,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,PSE: State of Palestine,CME_TMY0: Infant deaths,M: Male,2018,1340,,D: Number of deaths,A: Normal value,,992,1841,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,PSE: State of Palestine,CME_TMY0: Infant deaths,_T: Total,2018,2423,,D: Number of deaths,A: Normal value,,1798,3312,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SDN: Sudan,CME_TMY0: Infant deaths,F: Female,2018,24288,,D: Number of deaths,A: Normal value,,19373,30254,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SDN: Sudan,CME_TMY0: Infant deaths,M: Male,2018,31574,,D: Number of deaths,A: Normal value,,25208,39191,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SDN: Sudan,CME_TMY0: Infant deaths,_T: Total,2018,55862,,D: Number of deaths,A: Normal value,,44652,69215,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SUR: Suriname,CME_TMY0: Infant deaths,F: Female,2018,74,,D: Number of deaths,A: Normal value,,52,110,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SUR: Suriname,CME_TMY0: Infant deaths,M: Male,2018,103,,D: Number of deaths,A: Normal value,,71,151,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SUR: Suriname,CME_TMY0: Infant deaths,_T: Total,2018,177,,D: Number of deaths,A: Normal value,,122,261,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SWE: Sweden,CME_TMY0: Infant deaths,F: Female,2018,113,,D: Number of deaths,A: Normal value,,107,120,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SWE: Sweden,CME_TMY0: Infant deaths,M: Male,2018,142,,D: Number of deaths,A: Normal value,,135,150,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SWE: Sweden,CME_TMY0: Infant deaths,_T: Total,2018,255,,D: Number of deaths,A: Normal value,,243,268,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CHE: Switzerland,CME_TMY0: Infant deaths,F: Female,2018,142,,D: Number of deaths,A: Normal value,,130,155,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CHE: Switzerland,CME_TMY0: Infant deaths,M: Male,2018,176,,D: Number of deaths,A: Normal value,,162,193,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,CHE: Switzerland,CME_TMY0: Infant deaths,_T: Total,2018,318,,D: Number of deaths,A: Normal value,,292,346,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SYR: Syrian Arab Republic,CME_TMY0: Infant deaths,F: Female,2018,3391,,D: Number of deaths,A: Normal value,,2031,4311,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SYR: Syrian Arab Republic,CME_TMY0: Infant deaths,M: Male,2018,4334,,D: Number of deaths,A: Normal value,,2603,5478,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,SYR: Syrian Arab Republic,CME_TMY0: Infant deaths,_T: Total,2018,7725,,D: Number of deaths,A: Normal value,,4622,9751,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TJK: Tajikistan,CME_TMY0: Infant deaths,F: Female,2018,3576,,D: Number of deaths,A: Normal value,,2462,5181,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TJK: Tajikistan,CME_TMY0: Infant deaths,M: Male,2018,4880,,D: Number of deaths,A: Normal value,,3384,7091,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TJK: Tajikistan,CME_TMY0: Infant deaths,_T: Total,2018,8456,,D: Number of deaths,A: Normal value,,5857,12232,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,THA: Thailand,CME_TMY0: Infant deaths,F: Female,2018,2520,,D: Number of deaths,A: Normal value,,2167,3162,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,THA: Thailand,CME_TMY0: Infant deaths,M: Male,2018,3301,,D: Number of deaths,A: Normal value,,2848,4149,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,THA: Thailand,CME_TMY0: Infant deaths,_T: Total,2018,5821,,D: Number of deaths,A: Normal value,,5047,7290,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TLS: Timor-Leste,CME_TMY0: Infant deaths,F: Female,2018,640,,D: Number of deaths,A: Normal value,,408,994,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TLS: Timor-Leste,CME_TMY0: Infant deaths,M: Male,2018,803,,D: Number of deaths,A: Normal value,,510,1246,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TLS: Timor-Leste,CME_TMY0: Infant deaths,_T: Total,2018,1443,,D: Number of deaths,A: Normal value,,921,2232,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TGO: Togo,CME_TMY0: Infant deaths,F: Female,2018,5400,,D: Number of deaths,A: Normal value,,4579,6329,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TGO: Togo,CME_TMY0: Infant deaths,M: Male,2018,6722,,D: Number of deaths,A: Normal value,,5716,7871,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TGO: Togo,CME_TMY0: Infant deaths,_T: Total,2018,12122,,D: Number of deaths,A: Normal value,,10362,14181,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TON: Tonga,CME_TMY0: Infant deaths,F: Female,2018,20,,D: Number of deaths,A: Normal value,,14,27,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TON: Tonga,CME_TMY0: Infant deaths,M: Male,2018,16,,D: Number of deaths,A: Normal value,,11,23,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TON: Tonga,CME_TMY0: Infant deaths,_T: Total,2018,36,,D: Number of deaths,A: Normal value,,28,47,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TTO: Trinidad and Tobago,CME_TMY0: Infant deaths,F: Female,2018,129,,D: Number of deaths,A: Normal value,,58,287,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TTO: Trinidad and Tobago,CME_TMY0: Infant deaths,M: Male,2018,163,,D: Number of deaths,A: Normal value,,74,365,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TTO: Trinidad and Tobago,CME_TMY0: Infant deaths,_T: Total,2018,292,,D: Number of deaths,A: Normal value,,131,653,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TUN: Tunisia,CME_TMY0: Infant deaths,F: Female,2018,1314,,D: Number of deaths,A: Normal value,,1241,1390,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TUN: Tunisia,CME_TMY0: Infant deaths,M: Male,2018,1665,,D: Number of deaths,A: Normal value,,1578,1760,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TUN: Tunisia,CME_TMY0: Infant deaths,_T: Total,2018,2979,,D: Number of deaths,A: Normal value,,2827,3140,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TUR: Turkey,CME_TMY0: Infant deaths,F: Female,2018,5498,,D: Number of deaths,A: Normal value,,4940,6141,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TUR: Turkey,CME_TMY0: Infant deaths,M: Male,2018,6550,,D: Number of deaths,A: Normal value,,5890,7308,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TUR: Turkey,CME_TMY0: Infant deaths,_T: Total,2018,12048,,D: Number of deaths,A: Normal value,,10831,13446,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TKM: Turkmenistan,CME_TMY0: Infant deaths,F: Female,2018,2133,,D: Number of deaths,A: Normal value,,1598,2804,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TKM: Turkmenistan,CME_TMY0: Infant deaths,M: Male,2018,2971,,D: Number of deaths,A: Normal value,,2222,3880,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TKM: Turkmenistan,CME_TMY0: Infant deaths,_T: Total,2018,5104,,D: Number of deaths,A: Normal value,,3847,6662,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TUV: Tuvalu,CME_TMY0: Infant deaths,F: Female,2018,3,,D: Number of deaths,A: Normal value,,1,4,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TUV: Tuvalu,CME_TMY0: Infant deaths,M: Male,2018,3,,D: Number of deaths,A: Normal value,,2,6,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TUV: Tuvalu,CME_TMY0: Infant deaths,_T: Total,2018,6,,D: Number of deaths,A: Normal value,,3,10,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UGA: Uganda,CME_TMY0: Infant deaths,F: Female,2018,24524,,D: Number of deaths,A: Normal value,,20133,29637,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UGA: Uganda,CME_TMY0: Infant deaths,M: Male,2018,31100,,D: Number of deaths,A: Normal value,,25551,37477,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UGA: Uganda,CME_TMY0: Infant deaths,_T: Total,2018,55624,,D: Number of deaths,A: Normal value,,45847,66943,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UKR: Ukraine,CME_TMY0: Infant deaths,F: Female,2018,1372,,D: Number of deaths,A: Normal value,,1288,1461,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UKR: Ukraine,CME_TMY0: Infant deaths,M: Male,2018,1790,,D: Number of deaths,A: Normal value,,1695,1890,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UKR: Ukraine,CME_TMY0: Infant deaths,_T: Total,2018,3162,,D: Number of deaths,A: Normal value,,3046,3284,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ARE: United Arab Emirates,CME_TMY0: Infant deaths,F: Female,2018,285,,D: Number of deaths,A: Normal value,,250,325,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ARE: United Arab Emirates,CME_TMY0: Infant deaths,M: Male,2018,368,,D: Number of deaths,A: Normal value,,324,417,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ARE: United Arab Emirates,CME_TMY0: Infant deaths,_T: Total,2018,653,,D: Number of deaths,A: Normal value,,578,738,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GBR: United Kingdom,CME_TMY0: Infant deaths,F: Female,2018,1272,,D: Number of deaths,A: Normal value,,1227,1319,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GBR: United Kingdom,CME_TMY0: Infant deaths,M: Male,2018,1616,,D: Number of deaths,A: Normal value,,1561,1673,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,GBR: United Kingdom,CME_TMY0: Infant deaths,_T: Total,2018,2888,,D: Number of deaths,A: Normal value,,2798,2981,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TZA: United Republic of Tanzania,CME_TMY0: Infant deaths,F: Female,2018,34060,,D: Number of deaths,A: Normal value,,27556,42656,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TZA: United Republic of Tanzania,CME_TMY0: Infant deaths,M: Male,2018,41357,,D: Number of deaths,A: Normal value,,33695,51833,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,TZA: United Republic of Tanzania,CME_TMY0: Infant deaths,_T: Total,2018,75417,,D: Number of deaths,A: Normal value,,61482,94357,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,USA: United States,CME_TMY0: Infant deaths,F: Female,2018,9787,,D: Number of deaths,A: Normal value,,9367,10237,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,USA: United States,CME_TMY0: Infant deaths,M: Male,2018,12236,,D: Number of deaths,A: Normal value,,11710,12778,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,USA: United States,CME_TMY0: Infant deaths,_T: Total,2018,22023,,D: Number of deaths,A: Normal value,,21146,22955,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,URY: Uruguay,CME_TMY0: Infant deaths,F: Female,2018,134,,D: Number of deaths,A: Normal value,,127,142,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,URY: Uruguay,CME_TMY0: Infant deaths,M: Male,2018,175,,D: Number of deaths,A: Normal value,,165,184,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,URY: Uruguay,CME_TMY0: Infant deaths,_T: Total,2018,309,,D: Number of deaths,A: Normal value,,294,324,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UZB: Uzbekistan,CME_TMY0: Infant deaths,F: Female,2018,4753,,D: Number of deaths,A: Normal value,,3976,5651,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UZB: Uzbekistan,CME_TMY0: Infant deaths,M: Male,2018,6726,,D: Number of deaths,A: Normal value,,5626,7998,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UZB: Uzbekistan,CME_TMY0: Infant deaths,_T: Total,2018,11479,,D: Number of deaths,A: Normal value,,9680,13557,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,VUT: Vanuatu,CME_TMY0: Infant deaths,F: Female,2018,85,,D: Number of deaths,A: Normal value,,54,132,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,VUT: Vanuatu,CME_TMY0: Infant deaths,M: Male,2018,107,,D: Number of deaths,A: Normal value,,68,164,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,VUT: Vanuatu,CME_TMY0: Infant deaths,_T: Total,2018,192,,D: Number of deaths,A: Normal value,,122,294,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,VEN: Venezuela (Bolivarian Republic of),CME_TMY0: Infant deaths,F: Female,2018,4921,,D: Number of deaths,A: Normal value,,4234,5719,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,VEN: Venezuela (Bolivarian Republic of),CME_TMY0: Infant deaths,M: Male,2018,6174,,D: Number of deaths,A: Normal value,,5329,7172,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,VEN: Venezuela (Bolivarian Republic of),CME_TMY0: Infant deaths,_T: Total,2018,11095,,D: Number of deaths,A: Normal value,,9584,12866,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,VNM: Viet Nam,CME_TMY0: Infant deaths,F: Female,2018,10503,,D: Number of deaths,A: Normal value,,8701,13029,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,VNM: Viet Nam,CME_TMY0: Infant deaths,M: Male,2018,15484,,D: Number of deaths,A: Normal value,,12872,19141,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,VNM: Viet Nam,CME_TMY0: Infant deaths,_T: Total,2018,25987,,D: Number of deaths,A: Normal value,,21553,31919,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_WCA: West and Central Africa,CME_TMY0: Infant deaths,F: Female,2018,553813,,D: Number of deaths,A: Normal value,,501689,622011,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_WCA: West and Central Africa,CME_TMY0: Infant deaths,M: Male,2018,694834,,D: Number of deaths,A: Normal value,,631341,779178,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_WCA: West and Central Africa,CME_TMY0: Infant deaths,_T: Total,2018,1248647,,D: Number of deaths,A: Normal value,,1134282,1401275,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_WESTERNASIA: Western Asia,CME_TMY0: Infant deaths,F: Female,2018,43703,,D: Number of deaths,A: Normal value,,37740,51875,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_WESTERNASIA: Western Asia,CME_TMY0: Infant deaths,M: Male,2018,55167,,D: Number of deaths,A: Normal value,,47588,65423,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_WESTERNASIA: Western Asia,CME_TMY0: Infant deaths,_T: Total,2018,98870,,D: Number of deaths,A: Normal value,,85398,117137,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_WE: Western Europe,CME_TMY0: Infant deaths,F: Female,2018,7030,,D: Number of deaths,A: Normal value,,6936,7132,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_WE: Western Europe,CME_TMY0: Infant deaths,M: Male,2018,8901,,D: Number of deaths,A: Normal value,,8790,9030,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_WE: Western Europe,CME_TMY0: Infant deaths,_T: Total,2018,15931,,D: Number of deaths,A: Normal value,,15743,16137,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,WORLD: World,CME_TMY0: Infant deaths,F: Female,2018,1793142,,D: Number of deaths,A: Normal value,,1733723,1886429,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,WORLD: World,CME_TMY0: Infant deaths,M: Male,2018,2216957,,D: Number of deaths,A: Normal value,,2143945,2332228,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,WORLD: World,CME_TMY0: Infant deaths,_T: Total,2018,4010099,,D: Number of deaths,A: Normal value,,3880481,4215378,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,WB_HI: World Bank (high income),CME_TMY0: Infant deaths,F: Female,2018,24452,,D: Number of deaths,A: Normal value,,23837,25301,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,WB_HI: World Bank (high income),CME_TMY0: Infant deaths,M: Male,2018,30459,,D: Number of deaths,A: Normal value,,29734,31497,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,WB_HI: World Bank (high income),CME_TMY0: Infant deaths,_T: Total,2018,54911,,D: Number of deaths,A: Normal value,,53610,56753,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,WB_LI: World Bank (low income),CME_TMY0: Infant deaths,F: Female,2018,484806,,D: Number of deaths,A: Normal value,,450950,534206,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,WB_LI: World Bank (low income),CME_TMY0: Infant deaths,M: Male,2018,608863,,D: Number of deaths,A: Normal value,,567261,669494,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,WB_LI: World Bank (low income),CME_TMY0: Infant deaths,_T: Total,2018,1093669,,D: Number of deaths,A: Normal value,,1019989,1203156,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,WB_LMI: World Bank (lower middle income),CME_TMY0: Infant deaths,F: Female,2018,1072650,,D: Number of deaths,A: Normal value,,1018820,1145743,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,WB_LMI: World Bank (lower middle income),CME_TMY0: Infant deaths,M: Male,2018,1306107,,D: Number of deaths,A: Normal value,,1242140,1395949,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,WB_LMI: World Bank (lower middle income),CME_TMY0: Infant deaths,_T: Total,2018,2378757,,D: Number of deaths,A: Normal value,,2263661,2538912,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,WB_UMI: World Bank (upper middle income),CME_TMY0: Infant deaths,F: Female,2018,211232,,D: Number of deaths,A: Normal value,,202162,223918,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,WB_UMI: World Bank (upper middle income),CME_TMY0: Infant deaths,M: Male,2018,271527,,D: Number of deaths,A: Normal value,,260161,287699,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,WB_UMI: World Bank (upper middle income),CME_TMY0: Infant deaths,_T: Total,2018,482759,,D: Number of deaths,A: Normal value,,463051,510536,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,YEM: Yemen,CME_TMY0: Infant deaths,F: Female,2018,16587,,D: Number of deaths,A: Normal value,,11150,24043,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,YEM: Yemen,CME_TMY0: Infant deaths,M: Male,2018,20930,,D: Number of deaths,A: Normal value,,14009,30227,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,YEM: Yemen,CME_TMY0: Infant deaths,_T: Total,2018,37517,,D: Number of deaths,A: Normal value,,25197,54159,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ZMB: Zambia,CME_TMY0: Infant deaths,F: Female,2018,12037,,D: Number of deaths,A: Normal value,,10198,14139,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ZMB: Zambia,CME_TMY0: Infant deaths,M: Male,2018,14829,,D: Number of deaths,A: Normal value,,12595,17402,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ZMB: Zambia,CME_TMY0: Infant deaths,_T: Total,2018,26866,,D: Number of deaths,A: Normal value,,22904,31542,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ZWE: Zimbabwe,CME_TMY0: Infant deaths,F: Female,2018,7652,,D: Number of deaths,A: Normal value,,6307,9224,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ZWE: Zimbabwe,CME_TMY0: Infant deaths,M: Male,2018,9761,,D: Number of deaths,A: Normal value,,8043,11697,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,ZWE: Zimbabwe,CME_TMY0: Infant deaths,_T: Total,2018,17413,,D: Number of deaths,A: Normal value,,14410,20915,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_SSA: sub-Saharan Africa,CME_TMY0: Infant deaths,F: Female,2018,878246,,D: Number of deaths,A: Normal value,,824476,959546,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_SUBSAHARANAFRICA: sub-Saharan Africa,CME_TMY0: Infant deaths,F: Female,2018,853958,,D: Number of deaths,A: Normal value,,800598,935102,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_SSA: sub-Saharan Africa,CME_TMY0: Infant deaths,M: Male,2018,1105361,,D: Number of deaths,A: Normal value,,1039217,1205351,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_SUBSAHARANAFRICA: sub-Saharan Africa,CME_TMY0: Infant deaths,M: Male,2018,1073787,,D: Number of deaths,A: Normal value,,1008062,1172987,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNICEF_SSA: sub-Saharan Africa,CME_TMY0: Infant deaths,_T: Total,2018,1983607,,D: Number of deaths,A: Normal value,,1865861,2164274,,,,,,,,,,_T: Total
+UNICEF:GLOBAL_DATAFLOW(1.0): Cross-sector indicators,UNSDG_SUBSAHARANAFRICA: sub-Saharan Africa,CME_TMY0: Infant deaths,_T: Total,2018,1927745,,D: Number of deaths,A: Normal value,,1810863,2107887,,,,,,,,,,_T: Total
