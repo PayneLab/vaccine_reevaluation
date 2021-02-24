@@ -1,0 +1,31 @@
+Country,cia.gov_IMR,Original_IMR,OriginalDoseNum,CalculatedDoseNum
+United States,6.26,6.22,26,22
+Cuba,5.82,5.82,22,20
+Italy,5.51,5.51,18,21
+Greece,5.16,5.16,23,21
+Ireland,5.05,5.05,23,23
+Canada,5.04,5.04,24,20
+New Zealand,4.92,4.92,17,17
+United Kingdom,4.85,4.85,19,19
+Portugal,4.78,4.78,21,21
+Australia,4.75,4.75,24,7
+Netherlands,4.73,4.73,24,24
+Luxembourg,4.56,4.56,22,23
+Belgium,4.44,4.44,19,22
+Austria,4.42,4.42,23,23
+Denmark,4.34,4.34,12,12
+"Korea, South",4.26,4.26,15,15
+Slovenia,4.25,4.25,15,15
+Israel,4.22,4.22,18,18
+Spain,4.21,4.21,20,20
+Switzerland,4.18,4.18,18,17
+Germany,3.99,3.99,18,21
+Czech Republic,3.79,3.79,19,19
+Malta,3.75,3.75,15,15
+Norway,3.58,3.58,12,15
+Finland,3.47,3.47,13,10
+France,3.33,3.33,19,21
+Iceland,3.23,3.23,12,12
+Japan,2.79,2.79,12,12
+Sweden,2.75,2.75,12,10
+Singapore,2.31,2.31,17,16
