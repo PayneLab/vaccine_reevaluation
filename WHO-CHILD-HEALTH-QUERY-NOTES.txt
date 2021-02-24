@@ -37,3 +37,9 @@ http://apps.who.int/gho/athena/api/download/WHO_CHILD_HEALTH_1.csv?target=GHO/WH
 http://apps.who.int/gho/athena/api/download/WHO_CHILD_HEALTH_2a.csv?target=GHO/bcgv,dptv,poliov,fullv,mslv&format=csv&filter=COUNTRY:* 
 http://apps.who.int/gho/athena/api/download/WHO_CHILD_HEALTH_3.csv?target=GHO/MCV2,WHS4_128,NUTRITION_564,stunt,uweight,pncall3,pncall5,cmr,pnmr,NUTSTUNTINGPREV&format=csv&filter=COUNTRY:*
 http://apps.who.int/gho/athena/api/download/WHO_CHILD_HEALTH_4.csv?target=GHO/NUTUNDERWEIGHTPREV,NUTRITION_WH_2,NUTRITION_WH2,NUTRITION_HA_2,NUTRITION_WA_2,LBW_NUMBER,LBW_PREVALENCE,WHOSIS_000005,WHOSIS_000006&format=csv&filter=COUNTRY:*
+
+2.23.21
+
+WHS9_85 - Literacy rate among adults aged >= 15 years (%)
+GHED_CHEGDP_SHA2011 - Current health expenditure (CHE) as percentage of gross domestic product (GDP) (%)
+MEDS1_01_03 - GDP
