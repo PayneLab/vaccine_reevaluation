@@ -43,3 +43,5 @@ http://apps.who.int/gho/athena/api/download/WHO_CHILD_HEALTH_4.csv?target=GHO/NU
 WHS9_85 - Literacy rate among adults aged >= 15 years (%)
 GHED_CHEGDP_SHA2011 - Current health expenditure (CHE) as percentage of gross domestic product (GDP) (%)
 MEDS1_01_03 - GDP
+
+http://apps.who.int/gho/athena/api/download/WHO_IMR_Variables.csv?target=GHO/WHS9_85,GHED_CHEGDP_SHA2011,MEDS1_01_03&format=csv&filter=COUNTRY:*
