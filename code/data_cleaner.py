@@ -2,6 +2,8 @@ def split_cols(df, col, delim=":"):
     split = col.split(delim)
     
     df[split] = df[col].str.split(delim, expand=True)
+    df[split[0]] = df[split[0]].str.strip()
+    df[split[1]] = df[split[1]].str.strip()
     df.drop(col, axis=1, inplace=True)
     
     return df
@@ -21,7 +23,6 @@ def clean_data(df, to_remove, to_split):
         relevant_cols.append(col.split(":")[1])
     
     print("Relevant columns:", relevant_cols, '\n')
-    
     
     new_df.drop(columns=to_remove)
     print("Columns removed:", to_remove, '\n')
