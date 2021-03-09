@@ -1,0 +1,77 @@
+    fertility = pd.read_csv('.../data/UNICEF-FERTILITY-RATE-2018.csv')
+    pregnant_women_dr_visits2018_4x = pd.read_csv(".../data/UNICEF-PREGNANT-WOMEN-WHO-VISIT-DOCTOR-AT-LEAST-FOUR-TIMES-%UNIT-2018.csv")
+    imr2018 = pd.read_csv(".../data/UNICEF-IMR-2018.csv")
+    pregnant_women_dr_visits2018_1x = pd.read_csv(".../data/UNICEF-PREGNANT-WOMEN-WHO-VISIT-DOCTOR-AT-LEAST-ONCE-%UNIT-2018.csv")
+    infant_death2018 = pd.read_csv(".../data/UNICEF-INFANT-DEATH-2018.csv")
+    low_birth_wt2015 = pd.read_csv(".../data/UNICEF-PREVALENCE-OF-LOW-BIRTH-WEIGHT-2015.csv")
+    #links = pd.read_excel(".../data/UNICEF-LINKS.xlsx")
+    vaccine_coverage2018 = pd.read_csv(".../data/UNICEF-VACCINE-COVERAGE-BY-ANTIGEN-2018.csv")
+    maternal_death2017 = pd.read_csv(".../data/UNICEF-MATERNAL-DEATH-2017.csv")
+    #unicef_who_joint_immun_report2016 = pd.read_excel(".../data/UNICEF-WHO-IMMUNIZATION-JOINT-REPORT-2016.xls")
+    births2018 = pd.read_csv(".../data/UNICEF-NUMBER-OF-BIRTH-2018.csv")
+    
+    datasets = [
+        fertility,  # DATAFLOW, INDICATOR:Indicator, SEX:Sex, TIME_PERIOD:Time period, OBS_VALUE:Observation Value, UNIT_MULTIPLIER:Unit multiplier, UNIT_MEASURE: Unit of measure, DATA_SOURCE:Data Source, REF_AREA, Geographic area
+        pregnant_women_dr_visits2018_4x,
+        pregnant_women_dr_visits2018_1x,
+        imr2018,  # DATAFLOW, REF_AREA, Geographic area, INDICATOR:Indicator, SEX:Sex, TIME_PERIOD:Time period, OBS_VALUE:Observation Value, UNIT_MULTIPLIER:Unit multiplier, UNIT_MEASURE:Unit of measure, OBS_STATUS:Obs Status...
+        infant_death2018,
+        low_birth_wt2015,
+        vaccine_coverage2018,
+        maternal_death2017,
+        births2018
+    ]
+
+    for df in datasets:
+        df.dropna(how="all", axis=1, inplace=True)
+        if "REF_AREA:Geographic area" in df.columns:
+            clean.split_cols(df, "REF_AREA:Geographic area")
+        #print(df.describe())
+
+    # CLEAN & JOIN DATAFRAMES INTO ONE TABLE WITH ALL DATA
+    
+    # Join Fertility & IMR
+    fertility.rename(columns = {"OBS_VALUE:Observation Value":"Total_Fertility_Rate_%"}, inplace=True)
+    fertility_selection = fertility[["Total_Fertility_Rate_%", "REF_AREA", "Geographic area"]]
+    imr2018.rename(columns = {"OBS_VALUE:Observation Value": "Infant_Mortality_Rate"}, inplace=True)
+    imr2018.rename(columns={"LOWER_BOUND:Lower Bound": "IMR_Lower_Bound"}, inplace=True)
+    imr2018.rename(columns={"UPPER_BOUND:Upper Bound": "IMR_Upper_Bound"}, inplace=True)
+
+    imr2018_selection = imr2018[["Infant_Mortality_Rate","IMR_Lower_Bound", "IMR_Upper_Bound",  "SEX:Sex", "REF_AREA", "Geographic area"]]
+
+    joined = imr2018_selection.merge(fertility_selection, how="left", sort=False, on=["REF_AREA", "Geographic area"])
+
+    # Join # of DR Visits
+    pregnant_women_dr_visits2018_4x.rename(columns={"OBS_VALUE:Observation Value": "Women_4+_dr_visits_%"}, inplace = True)
+    pregnant_women_dr_visits2018_4x_selection = pregnant_women_dr_visits2018_4x[["Women_4+_dr_visits_%","REF_AREA", "Geographic area"]]
+    pregnant_women_dr_visits2018_1x.rename(columns={"OBS_VALUE:Observation Value": "Women_1+_dr_visit_%"}, inplace = True)
+    pregnant_women_dr_visits2018_1x_selection = pregnant_women_dr_visits2018_1x[["Women_1+_dr_visit_%", "REF_AREA", "Geographic area"]]
+    joined = joined.merge(pregnant_women_dr_visits2018_4x_selection, how='left', sort=False, on=['REF_AREA', "Geographic area"])
+    joined = joined.merge(pregnant_women_dr_visits2018_1x_selection, how='left', sort=False, on=['REF_AREA', "Geographic area"])
+
+    # Join Infant Deaths
+    infant_death2018.rename(columns = {"OBS_VALUE:Observation Value": "Number_of_Infant_Deaths"}, inplace=True)
+    infant_death2018.rename(columns={"LOWER_BOUND:Lower Bound": "Infant_Death_Lower_Bound"}, inplace=True)
+    infant_death2018.rename(columns={"UPPER_BOUND:Upper Bound": "Infant_Death_Upper_Bound"}, inplace=True)
+    infant_death2018_selection = infant_death2018[["Number_of_Infant_Deaths", "Infant_Death_Lower_Bound", "Infant_Death_Upper_Bound", "SEX:Sex", "REF_AREA", "Geographic area"]]
+    joined = joined.merge(infant_death2018_selection, how='left', sort=False, on=['REF_AREA', "Geographic area", "SEX:Sex"])
+
+    # Join Vaccine coverage
+    vaccine_coverage2018.rename(columns = {"INDICATOR:Indicator":"Vaccine_Type", "OBS_VALUE:Observation Value":"%_vaccinated", "AGE:Current age":"Vaccinated_current_age_2018"}, inplace=True)
+    vaccine_coverage2018_selection = vaccine_coverage2018[["Vaccine_Type", "%_vaccinated", "Vaccinated_current_age_2018", "SEX:Sex", "REF_AREA", "Geographic area"]]
+    joined = joined.merge(vaccine_coverage2018_selection, how='left', sort=False, on=["SEX:Sex", "REF_AREA", "Geographic area"])
+
+    # Join Maternal death
+    maternal_death2017.rename(columns = {"OBS_VALUE:Observation Value":"Est_Maternal_Deaths"}, inplace=True)
+    maternal_death2017_selection = maternal_death2017[["Est_Maternal_Deaths", "REF_AREA", "Geographic area"]]
+    joined = joined.merge(maternal_death2017_selection, how='left', on=['REF_AREA', "Geographic area"])
+
+    # Join Low Birth Weight
+    low_birth_wt2015.rename(columns = {"OBS_VALUE:Observation Value": "Low_birth_weight_%", "LOWER_BOUND:Lower Bound": "Low_birth_weight_lower", "UPPER_BOUND:Upper Bound":"Low_birth_weight_upper"}, inplace=True)
+    low_birth_wt2015_selection = low_birth_wt2015[["Low_birth_weight_%","Low_birth_weight_lower", "Low_birth_weight_upper", "REF_AREA", "Geographic area"]]
+    joined = joined.merge(low_birth_wt2015_selection, how='left', on=['REF_AREA','Geographic area'])
+
+    # Join # of Births
+    births2018.rename(columns={"OBS_VALUE": "Number_of_Births_Thousands"}, inplace=True)
+    births2018_selection = births2018[["Geographic area", "Number_of_Births_Thousands"]]
+    # joined = joined.merge(births2018_selection, how='left', sort=False, on=["Geographic area"]) # -- FIXME THIS ISN'T ADDING CORRECTLY
