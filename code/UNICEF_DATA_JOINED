@@ -47,8 +47,8 @@
     pregnant_women_dr_visits2018_4x_selection = pregnant_women_dr_visits2018_4x[["Women_4+_dr_visits_%","REF_AREA", "Geographic area"]]
     pregnant_women_dr_visits2018_1x.rename(columns={"OBS_VALUE:Observation Value": "Women_1+_dr_visit_%"}, inplace = True)
     pregnant_women_dr_visits2018_1x_selection = pregnant_women_dr_visits2018_1x[["Women_1+_dr_visit_%", "REF_AREA", "Geographic area"]]
-    joined = joined.merge(pregnant_women_dr_visits2018_4x_selection, how='left', sort=False, on=['REF_AREA', "Geographic area"])
-    joined = joined.merge(pregnant_women_dr_visits2018_1x_selection, how='left', sort=False, on=['REF_AREA', "Geographic area"])
+    #joined = joined.merge(pregnant_women_dr_visits2018_4x_selection, how='left', sort=False, on=['REF_AREA', "Geographic area"])
+    #joined = joined.merge(pregnant_women_dr_visits2018_1x_selection, how='left', sort=False, on=['REF_AREA', "Geographic area"])
 
     # Infant Deaths
     infant_death2018.rename(columns = {"OBS_VALUE:Observation Value": "Number_of_Infant_Deaths"}, inplace=True)
