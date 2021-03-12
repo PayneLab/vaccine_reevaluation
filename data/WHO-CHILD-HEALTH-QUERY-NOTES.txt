@@ -1,3 +1,7 @@
+imr - infant mortality rate
+
+http://apps.who.int/gho/athena/api/download/WHO-IMR-ALL-YEARS.csv?target=GHO/imr&format=csv&filter=COUNTRY:*
+
 WHS4_100 - Diptheria tetanus toxoid and pertussis (DTP3) among 1-year-olds (%)
 WHS8_110 - Measles-containing-vaccine (MCV1) immunization among 1-year-olds (%)
 WHS4_117 - Hep B (HepB3) immunization among 1-year-olds (%)
@@ -42,6 +46,26 @@ http://apps.who.int/gho/athena/api/download/WHO_CHILD_HEALTH_4.csv?target=GHO/NU
 
 WHS9_85 - Literacy rate among adults aged >= 15 years (%)
 GHED_CHEGDP_SHA2011 - Current health expenditure (CHE) as percentage of gross domestic product (GDP) (%)
-MEDS1_01_03 - GDP
+MEDS1_01_03 - GDP -> This data set is blank. Use the World Bank Data
 
 http://apps.who.int/gho/athena/api/download/WHO_IMR_Variables.csv?target=GHO/WHS9_85,GHED_CHEGDP_SHA2011,MEDS1_01_03&format=csv&filter=COUNTRY:*
+
+WHS_PBR - Preterm birth rate (per 100 live births)
+WHS9_95 - Total fertility rate (per woman)
+MDG_0000000026 - Maternal mortality ratio (per 100 000 live births) -> I think this would be a way to examine maternal complications
+WAS_0000000001 - Access to improved drinking water sources
+WSH_2 - Water, sanitation and hygiene attributable deaths ('000) in children under 5 years
+WSH_3 - Water, sanitation and hygiene attributable deaths per 100'000 capita
+EQ_HANDWASHING - Households with soap and water at a handwashing facility (%)
+WAS_0000000002 - Access to improved sanitation
+EQ_OPENDEFECATION - Population not using any sanitation facility (open defecation) (%)
+WSH_SANITATION_SAFELY_MANAGED - Population using safely managed sanitation services (%)
+M_Est_smk_curr - Estimate of current tobacco smoking prevalence (%)
+M_Est_smk_daily - Estimate of daily tobacco smoking prevalence (%)
+TOBACCO_0000000192 - Prevalence of smoking any tobacco product among persons aged >= 15 years
+WHOSIS_000011 - Alcohol consumption among adults aged &#8805; 15 years (litres of pure alcohol per person per year)
+
+http://apps.who.int/gho/athena/api/download/WHO-MATERNAL-HEALTH_Variables.csv?target=GHO/WHS_PBR,WHS9_95,MDG_0000000026&format=csv&filter=COUNTRY:*
+http://apps.who.int/gho/athena/api/download/WHO-SANITATION-1.csv?target=GHO/WAS_0000000001,WSH_2,WSH_3,EQ_HANDWASHING&format=csv&filter=COUNTRY:*
+http://apps.who.int/gho/athena/api/download/WHO-SANITATION-2.csv?target=GHO/WAS_0000000002,EQ_OPENDEFECATION,WSH_SANITATION_SAFELY_MANAGED&format=csv&filter=COUNTRY:*
+http://apps.who.int/gho/athena/api/download/WHO-SUBSTANCE-USE-1.csv?target=GHO/M_Est_smk_curr,M_Est_smk_daily,TOBACCO_0000000192,WHOSIS_000011&format=csv&filter=COUNTRY:*
