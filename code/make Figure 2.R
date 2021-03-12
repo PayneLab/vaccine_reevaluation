@@ -30,7 +30,7 @@ all_data = left_join(hepB_all, imr_all, by = c('Country', 'Year')) %>% na.omit(a
 
 us = filter(all_data, Country == 'United States of America')
 ggplot(us) + geom_text(aes(x = HepB, y = IMR, label = Year), hjust = 1.25, vjust = 1, check_overlap = TRUE) + geom_point(aes(x = HepB, y = IMR, label = Year)) +
-  theme_bw(base_size = 16) + labs(x = "1-year-old children vaccinated for HepB (%)", y = 'Male Infant Mortality Rate') + 
+  theme_bw(base_size = 16) + labs(x = "1-year-old children vaccinated for HepB (%)", y = 'Male Infant Mortality Rate (deaths/1000)') + 
   scale_x_continuous(expand = c(0,0), lim = c(0, 102)) + scale_y_continuous(expand = c(0,0), lim = c(4.74, 9.5))
 
 
@@ -46,7 +46,7 @@ all_f = left_join(hepB_all, female_imr_all, by = c('Country', 'Year')) %>% na.om
 
 usa = filter(all_f, Country == 'United States of America')
 ggplot(usa) + geom_text(aes(x = HepB, y = IMR, label = Year), hjust = 1.25, vjust = 1, check_overlap = TRUE) + geom_point(aes(x = HepB, y = IMR, label = Year)) +
-  theme_bw(base_size = 16) + labs(x = "1-year-old children vaccinated for HepB (%)", y = 'Female Infant Mortality Rate') + 
+  theme_bw(base_size = 16) + labs(x = "1-year-old children vaccinated for HepB (%)", y = 'Female Infant Mortality Rate (deaths/1000)') + 
   scale_x_continuous(expand = c(0,0), lim = c(0, 102)) + scale_y_continuous(expand = c(0,0), lim = c(4.75, 9.5))
 
 # Statistical Test
