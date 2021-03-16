@@ -1,4 +1,4 @@
-imr - infant mortality rate
+imr - infant mortality rate (all factors)
 
 http://apps.who.int/gho/athena/api/download/WHO-IMR-ALL-YEARS.csv?target=GHO/imr&format=csv&filter=COUNTRY:*
 
@@ -69,3 +69,7 @@ http://apps.who.int/gho/athena/api/download/WHO-MATERNAL-HEALTH_Variables.csv?ta
 http://apps.who.int/gho/athena/api/download/WHO-SANITATION-1.csv?target=GHO/WAS_0000000001,WSH_2,WSH_3,EQ_HANDWASHING&format=csv&filter=COUNTRY:*
 http://apps.who.int/gho/athena/api/download/WHO-SANITATION-2.csv?target=GHO/WAS_0000000002,EQ_OPENDEFECATION,WSH_SANITATION_SAFELY_MANAGED&format=csv&filter=COUNTRY:*
 http://apps.who.int/gho/athena/api/download/WHO-SUBSTANCE-USE-1.csv?target=GHO/M_Est_smk_curr,M_Est_smk_daily,TOBACCO_0000000192,WHOSIS_000011&format=csv&filter=COUNTRY:*
+
+MDG_0000000001 - imr by gender
+
+http://apps.who.int/gho/athena/api/download/WHO-IMR-ALL-YEARS-BY-GENDER.csv?target=GHO/MDG_0000000001&format=csv&filter=COUNTRY:*
