@@ -1,10 +1,12 @@
-def split_cols(df, col, delim=":"):
+def split_cols(df, col, delim=":", drop=True):
     split = col.split(delim)
     
     df[split] = df[col].str.split(delim, expand=True)
     df[split[0]] = df[split[0]].str.strip()
     df[split[1]] = df[split[1]].str.strip()
-    df.drop(col, axis=1, inplace=True)
+    
+    if drop:
+        df.drop(col, axis=1, inplace=True)
     
     return df
 
