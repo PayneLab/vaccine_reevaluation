@@ -62,7 +62,7 @@ def normalize(who_usa):
 
 
 def makeFigure3():
-    who = pd.read_csv("~/Desktop/WHO-SIMPLE.csv")
+    who = pd.read_csv("...data/WHO-SIMPLE.csv")
     who = split_cols(who, 'Country_Year', delim='_')
     who['Year'] = who['Year'].astype(int)
     who_relevant = who[who['Year'] >= 2000]
