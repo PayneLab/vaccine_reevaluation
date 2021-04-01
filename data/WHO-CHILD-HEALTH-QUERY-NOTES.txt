@@ -33,7 +33,7 @@ NUTRITION_WH2 - Prevalence of overweight children aged <5 years (% weight-for-he
 NUTRITION_HA_2 - Prevalence of stunted children aged <5 years (% height-for-age <-2 SD)
 NUTRITION_WA_2 - Prevalence of underweight children aged <5 years (% weight-for-age <-2 SD) (%)
 LBW_NUMBER - Low birth weight (in thousands)
-LBW_PREVALENCE - Low birth weight, prevalence (%)
+LBW_PREVALENCE - Low birth weight, pdrevalence (%)
 WHOSIS_000005 - Low-birth-weight newborns (%)
 WHOSIS_000006 - Infants exclusively breastfed for the first six months of life (%)
 

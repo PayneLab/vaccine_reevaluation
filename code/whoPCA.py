@@ -71,3 +71,5 @@ print(pca.explained_variance_ratio_)
 plt.show()
 
 
+
+
