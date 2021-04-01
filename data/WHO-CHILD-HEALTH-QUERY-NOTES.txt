@@ -73,3 +73,8 @@ http://apps.who.int/gho/athena/api/download/WHO-SUBSTANCE-USE-1.csv?target=GHO/M
 MDG_0000000001 - imr by gender
 
 http://apps.who.int/gho/athena/api/download/WHO-IMR-ALL-YEARS-BY-GENDER.csv?target=GHO/MDG_0000000001&format=csv&filter=COUNTRY:*
+
+MDG_0000000025 - Births attended by skilled health personnel (%)
+MDG_0000000003 - Adolescent birth rate (per 1000 women aged 15-19 years)
+
+http://apps.who.int/gho/athena/api/download/WHO-EXTRAS.csv?target=GHO/MDG_0000000025,MDG_0000000003&format=csv&filter=COUNTRY:*
