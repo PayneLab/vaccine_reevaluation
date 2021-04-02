@@ -62,7 +62,7 @@ def normalize(who_usa):
 
 
 def mlrSocio():
-    who = pd.read_csv("BIO465_Vaccine/data/WHO-SIMPLE.csv")
+    who = pd.read_csv("../data/WHO-SIMPLE.csv")
     who = split_cols(who, 'Country_Year', delim='_')
     who['Year'] = who['Year'].astype(int)
     del who['Country']
