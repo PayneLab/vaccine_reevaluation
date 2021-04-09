@@ -4,16 +4,16 @@ data_full = read_csv("https://raw.githubusercontent.com/tkmika/BIO465_Vaccine/ma
 
 data_full$UsedByOriginalStudy = factor(data_full$UsedByOriginalStudy)
 data_full = mutate(data_full, UsedByOriginalStudy = fct_recode(UsedByOriginalStudy,
-                            "Excluded from original study" = "0",
-                            "Included in original study" = "1"))
+                                                               "Excluded from original study" = "0",
+                                                               "Included in original study" = "1"))
 
-data_plot = ggplot(data = data_full) +
-  geom_point(aes(x=CalculatedDoseNum, y=cia.gov_IMR, color=UsedByOriginalStudy), size=3) +
-  geom_point(aes(x=OriginalDoseNum, y=Original_IMR, color=UsedByOriginalStudy), size=3) +
+data_plot = ggplot(data = data_full, aes(color=UsedByOriginalStudy, shape=UsedByOriginalStudy)) +
+  geom_point(aes(x=CalculatedDoseNum, y=cia.gov_IMR), size=3) +
+  geom_point(aes(x=OriginalDoseNum, y=Original_IMR), size=3) +
   labs(x="Country's recommended number of vaccine doses by age one", y="Infant mortality rate (deaths/1000)", color="Countries") +
   theme_bw(base_size=16) +
-  ggtitle("Figure 1: 2009 Vaccine Dose and IMR Data") +
-  scale_color_manual(values=c("red", "black")) +
+  scale_color_manual(name="Countries", values=c("red", "black")) +
+  scale_shape_manual(name="Countries", values=c(19, 17)) +
   xlim(0,NA) +
   theme(legend.position=c(0.2,0.9), 
         legend.background = element_rect(fill="white", size=0.5, linetype="solid", colour ="black"))
