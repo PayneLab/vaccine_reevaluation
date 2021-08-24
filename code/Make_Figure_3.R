@@ -1,7 +1,7 @@
 library(tidyverse)
 library(cowplot)
 
-df = read_tsv("./GLOBAL_DATAFLOW_2010-2020.txt")
+df = read_tsv("./Unicef_vaccination_doses_2019.txt")
 
 # this includes several rows that are about continents like 'Africa' or other stuff like "Australia and New Zealand"
 #and I'm ONLY interested in the country stuff
