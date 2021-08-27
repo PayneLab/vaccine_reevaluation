@@ -1,6 +1,6 @@
 library(tidyverse)
 
-data_full = read_csv("https://raw.githubusercontent.com/tkmika/BIO465_Vaccine/main/data/Figure_1_Data.csv")
+data_full = read_csv("../data/Figure_1_Data.csv")
 
 data_full$UsedByOriginalStudy = factor(data_full$UsedByOriginalStudy)
 data_full = mutate(data_full, UsedByOriginalStudy = fct_recode(UsedByOriginalStudy,
@@ -30,7 +30,7 @@ lm_full_data_result = lm(CalculatedDoseNum~cia.gov_IMR, data=data_full)
 print("Summary of linear regression for all available data:\n")
 print(summary(lm_full_data_result))
 
-data_original_study = read_csv("https://raw.githubusercontent.com/tkmika/BIO465_Vaccine/main/data/2009_Data_Used_by_Original_Study.csv")
+data_original_study = read_csv("../data/2009_Data_Used_by_Original_Study.csv")
 lm_originally_used_data_result = lm(OriginalDoseNum~Original_IMR, data=data_original_study)
 print("Summary of linear regression for data included in original study:\n")
 print(summary(lm_originally_used_data_result))
