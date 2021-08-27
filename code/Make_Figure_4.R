@@ -2,7 +2,7 @@ library(tidyverse)
 library(readxl)
 
 # IMR Data
-imr_estimates = read_xlsx("https://github.com/tkmika/BIO465_Vaccine/blob/main/data/UNIGME-2020-Country-Sex-specific_U5MR-CMR-and-IMR.xlsx", sheet=2)
+imr_estimates = read_xlsx("../data/UNIGME-2020-Country-Sex-specific_U5MR-CMR-and-IMR.xlsx", sheet=2)
 imr = tibble(imr_estimates) %>% rename('Country_code' = 'Child Mortality Estimates', 'Country' = 2, 'Uncertainty_bounds' = 3, '1990' = 4, 
                                        '1991' = 5, '1992' = 6, '1993' = 7, '1994' = 8, '1995' = 9, '1996' = 10, '1997' = 11, '1998' = 12, '1999' = 13, 
                                        '2000' = 14, '2001' = 15, '2002' = 16, '2003' = 17, '2004' = 18, '2005' = 19, '2006' = 20, 
@@ -17,7 +17,7 @@ imr = imr[-c(1, 2, 3, 4, 5, 6, 7, 8, 9, 10),]
 imr = filter(imr, Uncertainty_bounds == 'Median')
 
 # HebB Data
-hepBdata = read_xls('https://github.com/tkmika/BIO465_Vaccine/blob/main/data/HepBdata.xls')
+hepBdata = read_xls('../data/HepBdata.xls')
 hepBdata = tibble(hepBdata) 
 hepBdata = select(hepBdata, Country, '1993':'2019')
 
