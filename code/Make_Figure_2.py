@@ -6,7 +6,7 @@ import numpy as np
 import csv
 
 ### CREATING FILE AND HEADERS FOR LINEAR REGRESSION RESULTS__________________
-header = open('r2_all_50k.csv', 'a', newline='')
+header = open('../data/r2_all_50k.csv', 'a', newline='')
 write_head = csv.writer(header)
 write_head.writerow(['r2'])
 header.close()
@@ -35,7 +35,7 @@ while loop_count < 50000:
     test_num = loop_count
     test_num +=1
     test_num = str(test_num)
-    lr_result = open('summary_all_50k.txt', 'a')
+    lr_result = open('../data/summary_all_50k.txt', 'a')
     lr_result.writelines('***Test '
                         + test_num
                         + '***'  
@@ -49,7 +49,7 @@ while loop_count < 50000:
 
     ### R^2 DATA_____________________________________________________________
     r2 = str(model.rsquared)
-    r2_result = open('r2_all_50k.csv', 'a', newline = '')
+    r2_result = open('../data/r2_all_50k.csv', 'a', newline = '')
     write_r2 = csv.writer(r2_result)
     write_r2.writerow([r2]) 
     r2_result.close()
@@ -59,7 +59,7 @@ while loop_count < 50000:
 
 ### GENERATING SUMMARY STATISTICS AND R^2 DISTRIBUTION_______________________
 ### READING IN GENERATED R^2 DATA____________________________________________
-r2_data = pd.read_csv('vaccine/result_50k/r2_all_50k.csv', header  = [0])
+r2_data = pd.read_csv('../data/r2_all_50k.csv', header  = [0])
 
 ### SUMMARY STATISTICS_______________________________________________________
 r2_mean = r2_data.mean()
@@ -86,7 +86,7 @@ r2_median = str(r2_median)
 r2_iqr = str(r2_iqr)
 outlier_thresh = str(outlier_thresh)
 
-final_result = open('final_result_50k.txt', 'a')
+final_result = open('../data/final_result_50k.txt', 'a')
 final_result.writelines('***Final Result***'
                         + '\n\n'
                         + 'mean:                  ' + r2_mean
