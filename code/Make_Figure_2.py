@@ -16,7 +16,7 @@ loop_count = 0
 while loop_count < 50000:
 
     ### READING, SAMPLING, AND PREPARING THE DATA____________________________
-    data = pd.read_csv('fig_1_data.csv')
+    data = pd.read_csv('../data/Figure_1_Data.csv')
     random_sample = data.sample(n=30)
     x = random_sample.iloc[:, 4].values
     x = np.reshape(x, (-1,1))
