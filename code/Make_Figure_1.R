@@ -34,3 +34,16 @@ data_original_study = read_csv("../data/2009_Data_Used_by_Original_Study.csv")
 lm_originally_used_data_result = lm(OriginalDoseNum~Original_IMR, data=data_original_study)
 print("Summary of linear regression for data included in original study:\n")
 print(summary(lm_originally_used_data_result))
+
+# Check linear regression assumptions 
+#plot(lm_full_data_result, 1) # 1_linear
+#durbinWatsonTest(lm_full_data_result) # 2_independent
+#plot(lm_full_data_result, 3) # 3_constant_variance
+#ncvTest(lm_full_data_result) # 4_constant_variance_test
+
+#plot(lm_originally_used_data_result, 1) # 1_linear
+#durbinWatsonTest(lm_originally_used_data_result) # 2_independent
+#plot(lm_originally_used_data_result, 3) # 3_constant_variance
+#ncvTest(lm_originally_used_data_result) # 4_constant_variance_test
+
+

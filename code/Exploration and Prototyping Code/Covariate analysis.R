@@ -164,15 +164,15 @@ summary(mlr_all)
 
 ##### Check MLR assumptions ##### 
 # MLR HDI
-plot(mlr_hdi, 1)
-durbinWatsonTest(mlr_hdi)
-plot(mlr_hdi, 3)
-ncvTest(mlr_hdi)
+plot(mlr_hdi, 1) # 1_linear
+durbinWatsonTest(mlr_hdi) # 2_independent
+plot(mlr_hdi, 3) # 3_constant_variance
+ncvTest(mlr_hdi) # 4_constant_variance_test
 
 
 # MLR All
-plot(mlr_all, 1)
-durbinWatsonTest(mlr_all)
-plot(mlr_all, 3)
-ncvTest(mlr_all)
+plot(mlr_all, 1) # 1_linear
+durbinWatsonTest(mlr_all) # 2_independent
+plot(mlr_all, 3) # 3_constant_variance
+ncvTest(mlr_all) # 4_constant_variance_test
 
