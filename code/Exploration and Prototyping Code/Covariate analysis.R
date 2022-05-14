@@ -1,6 +1,6 @@
 ###################################
 # Covariate analysis              # 
-# Updated 5/11/2022                # 
+# Updated 5/14/2022                # 
 
 ##### Data set up and cleaning #####
 # Set directory path 
@@ -10,6 +10,8 @@ vaccine <- sub("(.*vaccine_reevaluation\\/).*", "\\1", my.dir)
 # load relevant libraries 
 library(tidyverse)
 library(readxl)
+library(lmtest)
+library(car)
 
 # read in data 
 imr = read_xlsx(paste0(vaccine, "data/UNIGME-2020-Country-Sex-specific_U5MR-CMR-and-IMR-2.xlsx"), sheet = 2)
@@ -151,34 +153,26 @@ t.test(sum_imr_single_payer$mean_imr_2010, sum_imr_other_payer$mean_imr_2010)
 sum_imr_dose = left_join(sum_imr, imr_dose %>% select(Code, CalculatedDoseNum), by = c("Code" = "Code")) %>% 
   unique()
 
+mlr_hdi = lm(cia.gov_IMR ~ `HDI 2009` + CalculatedDoseNum, data = sum_imr_dose)
+
+summary(mlr_hdi)
+
 mlr_all = lm(cia.gov_IMR ~ `HDI 2009` + `Gini index 2009 or earlier (income inequality)` + 
         `Healthcare access and quality index 2010` + CalculatedDoseNum, data = sum_imr_dose)
 
 summary(mlr_all)
 
-##### Multiple linear regression - original study dose data #####
-sum_imr_dose_og = left_join(sum_imr, imr_dose %>% select(Code, OriginalDoseNum, Original_IMR), by = c("Code" = "Code")) %>% 
-  unique()
-
-mlr_og = lm(cia.gov_IMR ~ `HDI 2009` + `Gini index 2009 or earlier (income inequality)` + 
-               `Healthcare access and quality index 2010` + OriginalDoseNum, data = sum_imr_dose_og)
-
-summary(mlr_og)
-
-mlr_og_imr = lm(Original_IMR ~ `HDI 2009` + `Gini index 2009 or earlier (income inequality)` + 
-                  `Healthcare access and quality index 2010` + OriginalDoseNum, data = sum_imr_dose_og)
-
-summary(mlr_og_imr)
-
-##### Single linear regression - calculated dose data ##### 
-
-lr = lm(cia.gov_IMR ~ CalculatedDoseNum, data = sum_imr_dose)
-summary(lr)
-
-##### Single linear regression - original data ##### 
-lr_og = lm(cia.gov_IMR ~ OriginalDoseNum, data = sum_imr_dose_og)
-summary(lr_og)
+##### Check MLR assumptions ##### 
+# MLR HDI
+plot(mlr_hdi, 1)
+durbinWatsonTest(mlr_hdi)
+plot(mlr_hdi, 3)
+ncvTest(mlr_hdi)
 
 
-
+# MLR All
+plot(mlr_all, 1)
+durbinWatsonTest(mlr_all)
+plot(mlr_all, 3)
+ncvTest(mlr_all)
 
