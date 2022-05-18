@@ -1,5 +1,6 @@
 library(tidyverse)
 library(cowplot)
+library(car)
 
 df = read_tsv("../data/Unicef_vaccination_doses_2019.txt")
 
@@ -226,4 +227,74 @@ plot_grid(imr_dtp_plot, imr_hib_plot, imr_hepb_plot, imr_polio_plot, imr_rota_pl
 grid = plot_grid(imr_dtp_plot, imr_hib_plot, imr_hepb_plot, imr_polio_plot, 
                  imr_rubella_plot, imr_rota_plot, imr_tb_plot, imr_pcv_plot, 
                  imr_mmr_plot)
+
+# linear regression statistics
+lm_dtp = lm(IMR~dtp, imr_dtp)
+lm_hib = lm(IMR~hib, imr_hib)
+lm_hepb = lm(IMR~hepb, imr_hepb)
+lm_polio = lm(IMR~polio, imr_polio)
+lm_rota = lm(IMR~rotavirus, imr_rota)
+lm_tb = lm(IMR~tb, imr_tb)
+lm_pcv = lm(IMR~pcv, imr_pcv)
+lm_mmr = lm(IMR~measles, imr_mmr)
+
+# linear regression assumptions 
+my.dir <-rstudioapi::getActiveDocumentContext()$path
+vaccine <- sub("(.*vaccine_reevaluation\\/).*", "\\1", my.dir)
+
+# DTP
+plot(lm_dtp, 1) # 1_linear
+durbinWatsonTest(lm_dtp) # 2_independent
+plot(lm_dtp, 3) # 3_constant_variance
+ncvTest(lm_dtp) # 4_constant_variance_test
+
+# HIB 
+plot(lm_hib, 1) # 1_linear
+durbinWatsonTest(lm_hib) # 2_independent
+plot(lm_hib, 3) # 3_constant_variance
+ncvTest(lm_hib) # 4_constant_variance_test
+
+# HEPB 
+plot(lm_hepb, 1) # 1_linear
+durbinWatsonTest(lm_hepb) # 2_independent
+plot(lm_hepb, 3) # 3_constant_variance
+ncvTest(lm_hepb) # 4_constant_variance_test
+
+# Polio
+plot(lm_polio, 1) # 1_linear
+durbinWatsonTest(lm_polio) # 2_independent
+plot(lm_polio, 3) # 3_constant_variance
+ncvTest(lm_polio) # 4_constant_variance_test
+
+# Rotavirus 
+plot(lm_rota, 1) # 1_linear
+durbinWatsonTest(lm_rota) # 2_independent
+plot(lm_rota, 3) # 3_constant_variance
+ncvTest(lm_rota) # 4_constant_variance_test
+
+# TB
+plot(lm_tb, 1) # 1_linear
+durbinWatsonTest(lm_tb) # 2_independent
+plot(lm_tb, 3) # 3_constant_variance
+ncvTest(lm_tb) # 4_constant_variance_test
+
+# PCV 
+plot(lm_pcv, 1) # 1_linear
+durbinWatsonTest(lm_pcv) # 2_independent
+plot(lm_pcv, 3) # 3_constant_variance
+ncvTest(lm_pcv) # 4_constant_variance_test
+
+# Measles
+plot(lm_mmr, 1) # 1_linear
+durbinWatsonTest(lm_mmr) # 2_independent
+plot(lm_mmr, 3) # 3_constant_variance
+ncvTest(lm_mmr) # 4_constant_variance_test
+
+
+
+
+
+
+
+
 
