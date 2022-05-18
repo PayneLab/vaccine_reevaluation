@@ -176,3 +176,10 @@ durbinWatsonTest(mlr_all) # 2_independent
 plot(mlr_all, 3) # 3_constant_variance
 ncvTest(mlr_all) # 4_constant_variance_test
 
+# t test of coefficients 
+library("lmtest")
+library("sandwich")
+
+coeftest(mlr_hdi, vcov = vcovHC(mlr_hdi, type = "HC0"))
+coeftest(mlr_all, vcov = vcovHC(mlr_all, type = "HC0"))
+

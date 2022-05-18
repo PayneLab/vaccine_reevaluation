@@ -290,11 +290,18 @@ durbinWatsonTest(lm_mmr) # 2_independent
 plot(lm_mmr, 3) # 3_constant_variance
 ncvTest(lm_mmr) # 4_constant_variance_test
 
+# t test of coefficients 
+library("lmtest")
+library("sandwich")
 
-
-
-
-
+coeftest(lm_dtp, vcov = vcovHC(lm_dtp, type = "HC0"))
+coeftest(lm_hepb, vcov = vcovHC(lm_hepb, type = "HC0"))
+coeftest(lm_hib, vcov = vcovHC(lm_hib, type = "HC0"))
+coeftest(lm_polio, vcov = vcovHC(lm_polio, type = "HC0"))
+#coeftest(lm_rota, vcov = vcovHC(lm_rota, type = "HC0"))
+coeftest(lm_tb, vcov = vcovHC(lm_tb, type = "HC0"))
+coeftest(lm_pcv, vcov = vcovHC(lm_pcv, type = "HC0"))
+coeftest(lm_mmr, vcov = vcovHC(lm_mmr, type = "HC0"))
 
 
 

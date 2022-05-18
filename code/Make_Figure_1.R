@@ -46,4 +46,11 @@ print(summary(lm_originally_used_data_result))
 #plot(lm_originally_used_data_result, 3) # 3_constant_variance
 #ncvTest(lm_originally_used_data_result) # 4_constant_variance_test
 
+# t test of coefficients 
+library("lmtest")
+library("sandwich")
+
+coeftest(lm_full_data_result, vcov = vcovHC(lm_full_data_result, type = "HC0"))
+coeftest(lm_originally_used_data_result, vcov = vcovHC(lm_originally_used_data_result, type = "HC0"))
+
 
